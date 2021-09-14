@@ -19,7 +19,7 @@ def get_tweets_count(user, bearer_token):
     headers = {"Authorization": f"Bearer {bearer_token}"}
     response = requests.request("GET", url, headers=headers)
     total_tweet_count = response.json()['meta']['total_tweet_count']
-    print(f' this user has {total_tweet_count} tweets in the last 7 days')
+    # print(f' this user has {total_tweet_count} tweets in the last 7 days')
     return total_tweet_count
 
 
@@ -33,7 +33,7 @@ def get_replies_count(conversation_id):
     url = f"https://api.twitter.com/2/tweets/counts/recent?{q}"
     response = requests.request("GET", url, headers=headers)
     replies_count = response.json()['meta']['total_tweet_count']
-    # print(f'there were {replies_count} replies')
+    print(f'there were {replies_count} replies')
     return replies_count
 
 

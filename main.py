@@ -5,7 +5,8 @@ import yaml
 import twitter
 
 max_tweets, max_replies = 100, 100
-user = "cirogomes"  
+tweets_pages, replies_pages = 3,4
+user = "DatenaOficial"  
 
 def main():
     mongo_setup.global_init()
@@ -15,7 +16,7 @@ def main():
     tweet_next_token, since_id = None, None
     
     i = 1 
-    while (tweet_next_token != None and i <= 3) or i == 1:
+    while (tweet_next_token != None and i <= tweets_pages) or i == 1:
         url = twitter.get_user_tweets_url(tweet_next_token, since_id, max_tweets, user)
         tt_json_resp = twitter.get_tweets(bearer_token, url,i)
         tweets_requests.create_tt_request(tt_json_resp)
@@ -27,7 +28,7 @@ def main():
         for conversation_id in replies_ids:
             reply_next_token, reply_since_id = None, None
             n = 1            
-            while (tweet_next_token != None and n <= 3) or n == 1:
+            while (reply_next_token != None and n <= replies_pages) or n == 1:
                 reply_url = twitter.get_reply_url(max_replies, conversation_id,reply_next_token)
                 replies_json_resp = twitter.get_replies(bearer_token, reply_url,z)
                 replies_requests.create_reply_requests(replies_json_resp)

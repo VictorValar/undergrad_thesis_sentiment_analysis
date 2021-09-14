@@ -2,3 +2,4 @@ search_tweets_api:
   bearer_token: AAAAAAAAAAAAAAAAAAAAAI1QTAEAAAAAv4TxmSe4LKkduKPsi2Tb%2Bc6qRgI%3DgeP0OQ35tuAhKgezZTQXsRRcisRGKhWi0UmW8Wew4Ab15ELCq8
 azure:
   subscription_key: 0ee0bfcef02d4c069073a71727f7b29f
+  endpoint: "https://tcc-sentiment-analysis.cognitiveservices.azure.com/"
