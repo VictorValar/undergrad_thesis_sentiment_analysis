@@ -3,3 +3,4 @@ search_tweets_api:
 azure:
   subscription_key: 0ee0bfcef02d4c069073a71727f7b29f
   endpoint: "https://tcc-sentiment-analysis.cognitiveservices.azure.com/"
+  key: 
