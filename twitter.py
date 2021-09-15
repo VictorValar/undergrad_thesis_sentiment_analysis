@@ -1,11 +1,11 @@
 import requests
 import time
-from main import process_yaml
+import main
 import config.mongo_setup as mongo_setup
 from requests.models import Response
 import data.replies_requests as replies_requests
 from models import TweetsRequests, RepliesRequests
-
+from vcolors.colors import *
 
 def create_bearer_token(auth_data):
     return auth_data["search_tweets_api"]["bearer_token"]
@@ -25,7 +25,7 @@ def get_tweets_count(user, bearer_token):
 
 def get_replies_count(conversation_id):
     mongo_setup.global_init()
-    auth_data = process_yaml()
+    auth_data = main.process_yaml()
     bearer_token = create_bearer_token(auth_data)
 
     q = f"query=conversation_id:{conversation_id}"
@@ -46,34 +46,34 @@ def get_replies_count(conversation_id):
 def tweet_resp_has_next_page():
     obj = TweetsRequests.objects.order_by('-id').first()
     if not obj:
-        print("No last tweet request")
+        printW("No last tweet request")
         return None, None
     else:
         if obj.request_meta.next_token != None:
             next_token = obj.request_meta.next_token
             since_id = obj.request_meta.newest_id
-            print(
+            printS(
                 f'There is a next token in the last tweet request : {next_token}')
             return next_token, since_id
         else:
-            print("No next token in the last tweet request")
+            printW("No next token in the last tweet request")
             return None, None
 
 
 def reply_resp_has_next_page():
     obj = RepliesRequests.objects.order_by('-id').first()
     if not obj:
-        print("No last reply request")
+        printW("No last reply request")
         return None, None
     else:
         if obj.request_meta.next_token != None:
             next_token = obj.request_meta.next_token
             since_id = obj.request_meta.newest_id
-            print(
+            printS(
                 f'There is a next token in the last reply request: {next_token}')
             return next_token, since_id
         else:
-            print("No next token in the last reply request")
+            printW("No next token in the last reply request")
             return None, None
 
 
@@ -83,7 +83,7 @@ def get_user_tweets_url(next_token, since_id, max_tweets, user):
     mrf = f"max_results={max_results}"
     q = f"query=from:{handle} -is:retweet"
     if next_token == None:
-        print('No next token for this tweet url')
+        printS('No next token for this tweet url')
         url = f"https://api.twitter.com/2/tweets/search/recent?{mrf}&{q}&tweet.fields=lang,created_at,public_metrics,author_id"
         return url
     else:
@@ -98,9 +98,9 @@ def get_tweets(bearer_token, url, i):
     headers = {"Authorization": f"Bearer {bearer_token}"}
     response = requests.request("GET", url, headers=headers)
     if 'errors' in response.json():
-        print(response.json())
+        printFBG(response.json())
     else:
-        print(response)
+        printSBG(response)
     time.sleep(2.2)
     return response.json()
 
@@ -120,12 +120,12 @@ def get_reply_url(max_replies, conversation_id, reply_next_token):
     mrf = f"max_results={max_results}"
     q = f"query=conversation_id:{conversation_id}"
     if reply_next_token == None:
-        print('No next token for this reply url')
+        printW('No next token for this reply url')
         url = f'{base_url}{q}&tweet.fields=lang,in_reply_to_user_id,author_id,created_at,conversation_id,public_metrics&{mrf}'
         return url
     else:
         nxt = f'&next_token={reply_next_token}'
-        print(f'There is a next token for this reply url: {reply_next_token}')
+        printS(f'There is a next token for this reply url: {reply_next_token}')
         url = f'{base_url}{q}&tweet.fields=lang,in_reply_to_user_id,author_id,created_at,conversation_id,public_metrics&{mrf}{nxt}'
         return url
 
@@ -135,9 +135,9 @@ def get_replies(bearer_token, url, z):
     headers = {"Authorization": f"Bearer {bearer_token}"}
     response = requests.request("GET", url, headers=headers)
     if 'errors' in response.json():
-        print(response.json())
+        printFBG(response.json())
     else:
-        print(response)
+        printSBG(response)
     time.sleep(2.2)
     return response.json()
 
