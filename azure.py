@@ -11,8 +11,9 @@ def main():
     replies_sentiment_analysis(azure_header, sentiment_url)
 
 def replies_sentiment_analysis(azure_header, sentiment_url):
+    '''Gets the replies from the DB, cleans the data and sends it to Azure, afterwards calls save_replies_sentiment_analysis to save the Azure responso to the DB'''
     mongo_setup.global_init()
-    replies = Replies.objects[:10]
+    replies = Replies.objects[:12]
     documents = {'documents':[]}
     reply_counter = 1
     batch_counter = 1
@@ -26,17 +27,21 @@ def replies_sentiment_analysis(azure_header, sentiment_url):
             response = requests.post(sentiment_url, headers=azure_header, json=documents)
             time.sleep(1.5)
             documents = {'documents':[]}
-            
-            if response.json()['errors'] == []:
-                printS(f"bacth {batch_counter} analysed")
+            try:
+                response.json()['documents']
+                printS(f"Bacth {batch_counter} analysed")
                 save_replies_sentiment_analysis(response.json(),batch_counter)
-            else:
-                printF(response.json()['errors'])
-            batch_counter += 1
+                batch_counter += 1
+                if response.json()['errors'] != []:
+                    printW(response.json()['errors'])
+            except KeyError:
+                printF(response.json()['error'])
+            
         reply_counter += 1
     return 
 
 def connect_azure():
+    '''Gets Azure auth data'''
     auth = process_yaml()
     azure_url = auth["azure"]["endpoint"]
     sentiment_url = f"{azure_url}text/analytics/v3.1/sentiment"
