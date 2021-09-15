@@ -5,6 +5,7 @@ import config.mongo_setup as mongo_setup
 from models import Tweets, Replies
 import time
 from data.replies_azure import save_replies_sentiment_analysis
+import re
 
 def main():
     sentiment_url, azure_header = connect_azure()
@@ -13,14 +14,15 @@ def main():
 def replies_sentiment_analysis(azure_header, sentiment_url):
     '''Gets the replies from the DB, cleans the data and sends it to Azure, afterwards calls save_replies_sentiment_analysis to save the Azure responso to the DB'''
     mongo_setup.global_init()
-    replies = Replies.objects[:12]
+    replies = Tweets.objects[:10]
     documents = {'documents':[]}
     reply_counter = 1
     batch_counter = 1
     for reply in replies:
         if reply.lang == 'und':
             lang = 'pt'
-        formatted_reply = {'id':reply.reply_id,'text':reply.text,'language':lang} 
+        clean_text = clear_text(reply.text)
+        formatted_reply = {'id':reply.tweet_id,'text':clean_text,'language':lang} 
         documents['documents'].append(formatted_reply)
         print(f"reply {reply_counter} added to documents")
         if reply_counter % 10 == 0:
@@ -39,6 +41,20 @@ def replies_sentiment_analysis(azure_header, sentiment_url):
             
         reply_counter += 1
     return 
+def clear_text(text) -> str:
+    '''Removes new lines, twitter handles, hashtags and links'''
+    clean_text = text
+    clean_text = clean_text.lower()
+    
+    #handles and hashtags:
+    clean_text = re.sub('(?<=^|(?<=[^a-zA-Z0-9-_\.]))(#|@)([A-Za-z]+[A-Za-z0-9-_]+)','',clean_text)
+    
+    #URLs:
+    clean_text = re.sub('http\S+','',clean_text)
+    
+    #new lines:
+    clean_text = re.sub('(\r\n|\n|\r|\\n)','',clean_text)
+    return clean_text
 
 def connect_azure():
     '''Gets Azure auth data'''
