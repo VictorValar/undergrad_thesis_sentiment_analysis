@@ -1,5 +1,6 @@
 from models import RepliesRequests, RepliesMeta, Replies
 from datetime import datetime
+from vcolors.colors import *
 
 def create_reply_requests(replies_json_resp) -> RepliesRequests:
     if 'next_token' in replies_json_resp['meta']:
@@ -13,7 +14,7 @@ def create_reply_requests(replies_json_resp) -> RepliesRequests:
         tweet_meta_obj.result_count = replies_json_resp['meta']['result_count']
         print(f'replies in response:{tweet_meta_obj.result_count}')
         if replies_json_resp['meta']['result_count'] == 0:
-            print(replies_json_resp)
+            printF(replies_json_resp)
         if 'next_token' in replies_json_resp['meta']:
             tweet_meta_obj.next_token = replies_json_resp['meta']['next_token']
         if 'oldest_id' in replies_json_resp['meta']:
@@ -38,9 +39,9 @@ def create_reply_requests(replies_json_resp) -> RepliesRequests:
                 tweet_obj.quote_count = tweet['public_metrics']['quote_count']
                 tweet_obj.save()
             else:
-                print('reply already exist')
+                printW('reply already exist')
 
         request.save()
     else:
-        print('reply request already exist')
+        printW('reply request already exist')
 
