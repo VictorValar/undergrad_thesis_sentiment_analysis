@@ -7,8 +7,12 @@ import time
 from data.replies_azure import save_replies_sentiment_analysis
 from data.tweets_azure import save_tweets_sentiment_analysis
 import re
+import sys
+import os
+os.chdir(r"C:\Users\victor.santos2\OneDrive - Grupo Marista\TCC\Twitter Sentiment Analysis\MongoTwitter")
+output = open("azure_output.out", 'w')
 
-fetch_tweets, fetch_replies = True, True
+fetch_tweets, fetch_replies = False, True
 
 def main():
     mongo_setup.global_init()
@@ -20,20 +24,27 @@ def main():
         tweets_sentiment_analysis(azure_header, sentiment_url)
     else:
         replies_sentiment_analysis(azure_header, sentiment_url)
-    printSBG('--- END ---')()
+    printSBG('--- END ---')
+    sys.stdout = output
+    output.close()
 
 def replies_sentiment_analysis(azure_header, sentiment_url):
     '''Gets the replies from the DB, cleans the data and sends it to Azure, afterwards calls save_replies_sentiment_analysis to save the Azure responso to the DB'''
-    replies = Replies.objects[:30]
+    replies = Replies.objects.all()
     documents = {'documents':[]}
     reply_counter = 1
     batch_counter = 1
     for reply in replies:
         if not RepliesSentiment.objects.filter(reply_id=reply.reply_id).first():
+            
+            clean_text,no_text = clear_text(reply.text)
+            
+            if no_text == True:
+                printWBG(f'Reply {reply.reply_id} has no text')
+                continue
+            
             if reply.lang == 'und' or reply.lang == 'pt':
                 lang = 'pt-BR'
-
-            clean_text = clear_text(reply.text)
 
             formatted_reply = {'id':reply.reply_id,'text':clean_text,'language':lang} 
             documents['documents'].append(formatted_reply)
@@ -41,7 +52,7 @@ def replies_sentiment_analysis(azure_header, sentiment_url):
 
             if reply_counter % 10 == 0:
                 response = requests.post(sentiment_url, headers=azure_header, json=documents)
-                time.sleep(1.5)
+                time.sleep(0.7)
                 documents = {'documents':[]}
                 try:
                     response.json()['documents']
@@ -50,6 +61,7 @@ def replies_sentiment_analysis(azure_header, sentiment_url):
                     batch_counter += 1
                     if response.json()['errors'] != []:
                         printW(response.json()['errors'])
+                        printWBG(f'reply text:{clean_text}')
                 except KeyError:
                     printF(response.json()['error'])
                 
@@ -59,16 +71,21 @@ def replies_sentiment_analysis(azure_header, sentiment_url):
 
 def tweets_sentiment_analysis(azure_header, sentiment_url):
     '''Gets the tweets from the DB, cleans the data and sends it to Azure, afterwards calls save_tweets_sentiment_analysis to save the Azure responso to the DB'''
-    tweets = Tweets.objects[:30]
+    tweets = Tweets.objects.all()
     documents = {'documents':[]}
     tweet_counter = 1
     batch_counter = 1
     for tweet in tweets:
         if not TweetsSentiment.objects.filter(tweet_id=tweet.tweet_id).first():
+            
+            clean_text,no_text = clear_text(tweet.text)
+            
+            if no_text == True:
+                printWBG(f'Tweet {tweet.tweet_id} has no text')
+                continue
+            
             if tweet.lang == 'und' or tweet.lang == 'pt':
                 lang = 'pt-BR'
-
-            clean_text = clear_text(tweet.text)
 
             formatted_tweet = {'id':tweet.tweet_id,'text':clean_text,'language':lang} 
             documents['documents'].append(formatted_tweet)
@@ -76,7 +93,7 @@ def tweets_sentiment_analysis(azure_header, sentiment_url):
 
             if tweet_counter % 10 == 0:
                 response = requests.post(sentiment_url, headers=azure_header, json=documents)
-                time.sleep(1.5)
+                time.sleep(0.7)
                 documents = {'documents':[]}
                 try:
                     response.json()['documents']
@@ -99,7 +116,7 @@ def clear_text(text) -> str:
     clean_text = text
     clean_text = clean_text.lower()
     
-    #handles and hashtags:
+    # handles and hashtags:
     clean_text = re.sub('(?<=^|(?<=[^a-zA-Z0-9-_\.]))(#|@)([A-Za-z]+[A-Za-z0-9-_]+)','',clean_text)
     
     #URLs:
@@ -107,7 +124,14 @@ def clear_text(text) -> str:
     
     #new lines:
     clean_text = re.sub('(\r\n|\n|\r|\\n)','',clean_text)
-    return clean_text
+
+    #Checks if re clean text is empty
+    no_text = False
+    white = ['',' ','  ','   ','    ','     ']
+    if clean_text in white:
+        no_text = True
+
+    return clean_text, no_text
 
 def connect_azure():
     '''Gets Azure auth data'''

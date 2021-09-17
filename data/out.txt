@@ -1,0 +1,986 @@
+[{'id': '1436747896817393665', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5481 added to documents
+reply 5482 added to documents
+reply 5483 added to documents
+reply 5484 added to documents
+reply 5485 added to documents
+reply 5486 added to documents
+reply 5487 added to documents
+reply 5488 added to documents
+reply 5489 added to documents
+reply 5490 added to documents
+replies bacth 549 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 549 saved
+reply 5491 added to documents
+reply 5492 added to documents
+reply 5493 added to documents
+reply 5494 added to documents
+reply 5495 added to documents
+reply 5496 added to documents
+reply 5497 added to documents
+reply 5498 added to documents
+reply 5499 added to documents
+reply 5500 added to documents
+replies bacth 550 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 550 saved
+[{'id': '1436721657868177409', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5501 added to documents
+reply 5502 added to documents
+reply 5503 added to documents
+reply 5504 added to documents
+reply 5505 added to documents
+reply 5506 added to documents
+reply 5507 added to documents
+reply 5508 added to documents
+reply 5509 added to documents
+reply 5510 added to documents
+replies bacth 551 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 551 saved
+[{'id': '1436720235793498120', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5511 added to documents
+reply 5512 added to documents
+reply 5513 added to documents
+reply 5514 added to documents
+reply 5515 added to documents
+reply 5516 added to documents
+reply 5517 added to documents
+reply 5518 added to documents
+reply 5519 added to documents
+reply 5520 added to documents
+replies bacth 552 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Replies batch 552 saved
+[{'id': '1436320536955600896', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436292480102772760', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436291384898637826', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5521 added to documents
+reply 5522 added to documents
+reply 5523 added to documents
+reply 5524 added to documents
+reply 5525 added to documents
+reply 5526 added to documents
+reply 5527 added to documents
+reply 5528 added to documents
+reply 5529 added to documents
+reply 5530 added to documents
+replies bacth 553 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Replies batch 553 saved
+[{'id': '1436284766563749899', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436284593473212424', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5531 added to documents
+reply 5532 added to documents
+reply 5533 added to documents
+reply 5534 added to documents
+reply 5535 added to documents
+reply 5536 added to documents
+reply 5537 added to documents
+reply 5538 added to documents
+reply 5539 added to documents
+reply 5540 added to documents
+replies bacth 554 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Replies batch 554 saved
+[{'id': '1436469712335089666', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436408844821872644', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5541 added to documents
+reply 5542 added to documents
+reply 5543 added to documents
+reply 5544 added to documents
+reply 5545 added to documents
+reply 5546 added to documents
+reply 5547 added to documents
+reply 5548 added to documents
+reply 5549 added to documents
+reply 5550 added to documents
+replies bacth 555 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 555 saved
+[{'id': '1436320633374322733', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5551 added to documents
+reply 5552 added to documents
+reply 5553 added to documents
+reply 5554 added to documents
+reply 5555 added to documents
+reply 5556 added to documents
+reply 5557 added to documents
+reply 5558 added to documents
+reply 5559 added to documents
+reply 5560 added to documents
+replies bacth 556 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Replies batch 556 saved
+[{'id': '1436167738968481793', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436167711999070208', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5561 added to documents
+reply 5562 added to documents
+reply 5563 added to documents
+reply 5564 added to documents
+reply 5565 added to documents
+reply 5566 added to documents
+reply 5567 added to documents
+reply 5568 added to documents
+reply 5569 added to documents
+reply 5570 added to documents
+replies bacth 557 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 557 saved
+[{'id': '1436157873474707465', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5571 added to documents
+reply 5572 added to documents
+reply 5573 added to documents
+reply 5574 added to documents
+reply 5575 added to documents
+reply 5576 added to documents
+reply 5577 added to documents
+reply 5578 added to documents
+reply 5579 added to documents
+reply 5580 added to documents
+replies bacth 558 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 558 saved
+[{'id': '1436151562506735616', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5581 added to documents
+reply 5582 added to documents
+reply 5583 added to documents
+reply 5584 added to documents
+reply 5585 added to documents
+reply 5586 added to documents
+reply 5587 added to documents
+reply 5588 added to documents
+reply 5589 added to documents
+reply 5590 added to documents
+replies bacth 559 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 559 saved
+reply 5591 added to documents
+reply 5592 added to documents
+reply 5593 added to documents
+reply 5594 added to documents
+reply 5595 added to documents
+reply 5596 added to documents
+reply 5597 added to documents
+reply 5598 added to documents
+reply 5599 added to documents
+reply 5600 added to documents
+replies bacth 560 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 560 saved
+[{'id': '1436148637638307842', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5601 added to documents
+reply 5602 added to documents
+reply 5603 added to documents
+reply 5604 added to documents
+reply 5605 added to documents
+reply 5606 added to documents
+reply 5607 added to documents
+reply 5608 added to documents
+reply 5609 added to documents
+reply 5610 added to documents
+replies bacth 561 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+[{'id': '1436855627561701380', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5361 added to documents
+reply 5362 added to documents
+reply 5363 added to documents
+reply 5364 added to documents
+reply 5365 added to documents
+reply 5366 added to documents
+reply 5367 added to documents
+reply 5368 added to documents
+reply 5369 added to documents
+reply 5370 added to documents
+replies bacth 537 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 537 saved
+reply 5371 added to documents
+reply 5372 added to documents
+reply 5373 added to documents
+reply 5374 added to documents
+reply 5375 added to documents
+reply 5376 added to documents
+reply 5377 added to documents
+reply 5378 added to documents
+reply 5379 added to documents
+reply 5380 added to documents
+replies bacth 538 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Replies batch 538 saved
+[{'id': '1436826683743612939', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436820271382634497', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5381 added to documents
+reply 5382 added to documents
+reply 5383 added to documents
+reply 5384 added to documents
+reply 5385 added to documents
+reply 5386 added to documents
+reply 5387 added to documents
+reply 5388 added to documents
+reply 5389 added to documents
+reply 5390 added to documents
+replies bacth 539 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Replies batch 539 saved
+[{'id': '1436820166277574662', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436816525604835328', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436816135643672579', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5391 added to documents
+reply 5392 added to documents
+reply 5393 added to documents
+reply 5394 added to documents
+reply 5395 added to documents
+reply 5396 added to documents
+reply 5397 added to documents
+reply 5398 added to documents
+reply 5399 added to documents
+reply 5400 added to documents
+replies bacth 540 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 540 saved
+reply 5401 added to documents
+reply 5402 added to documents
+reply 5403 added to documents
+reply 5404 added to documents
+reply 5405 added to documents
+reply 5406 added to documents
+reply 5407 added to documents
+reply 5408 added to documents
+reply 5409 added to documents
+reply 5410 added to documents
+replies bacth 541 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 541 saved
+reply 5411 added to documents
+reply 5412 added to documents
+reply 5413 added to documents
+reply 5414 added to documents
+reply 5415 added to documents
+reply 5416 added to documents
+reply 5417 added to documents
+reply 5418 added to documents
+reply 5419 added to documents
+reply 5420 added to documents
+replies bacth 542 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 542 saved
+reply 5421 added to documents
+reply 5422 added to documents
+reply 5423 added to documents
+reply 5424 added to documents
+reply 5425 added to documents
+reply 5426 added to documents
+reply 5427 added to documents
+reply 5428 added to documents
+reply 5429 added to documents
+reply 5430 added to documents
+replies bacth 543 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 543 saved
+reply 5431 added to documents
+reply 5432 added to documents
+reply 5433 added to documents
+reply 5434 added to documents
+reply 5435 added to documents
+reply 5436 added to documents
+reply 5437 added to documents
+reply 5438 added to documents
+reply 5439 added to documents
+reply 5440 added to documents
+replies bacth 544 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Replies batch 544 saved
+[{'id': '1436781447747080192', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436774554903457806', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5441 added to documents
+reply 5442 added to documents
+reply 5443 added to documents
+reply 5444 added to documents
+reply 5445 added to documents
+reply 5446 added to documents
+reply 5447 added to documents
+reply 5448 added to documents
+reply 5449 added to documents
+reply 5450 added to documents
+replies bacth 545 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Replies batch 545 saved
+[{'id': '1436768778126348289', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436768356665864195', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436768258380767240', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436768015417290752', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5451 added to documents
+reply 5452 added to documents
+reply 5453 added to documents
+reply 5454 added to documents
+reply 5455 added to documents
+reply 5456 added to documents
+reply 5457 added to documents
+reply 5458 added to documents
+reply 5459 added to documents
+reply 5460 added to documents
+replies bacth 546 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 546 saved
+reply 5461 added to documents
+reply 5462 added to documents
+reply 5463 added to documents
+reply 5464 added to documents
+reply 5465 added to documents
+reply 5466 added to documents
+reply 5467 added to documents
+reply 5468 added to documents
+reply 5469 added to documents
+reply 5470 added to documents
+replies bacth 547 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 547 saved
+[{'id': '1436749518112964608', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5471 added to documents
+reply 5472 added to documents
+reply 5473 added to documents
+reply 5474 added to documents
+reply 5475 added to documents
+reply 5476 added to documents
+reply 5477 added to documents
+reply 5478 added to documents
+reply 5479 added to documents
+reply 5480 added to documents
+replies bacth 548 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 548 saved
+reply 5221 added to documents
+reply 5222 added to documents
+reply 5223 added to documents
+reply 5224 added to documents
+reply 5225 added to documents
+reply 5226 added to documents
+reply 5227 added to documents
+reply 5228 added to documents
+reply 5229 added to documents
+reply 5230 added to documents
+replies bacth 523 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 523 saved
+[{'id': '1437108860523847680', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5231 added to documents
+reply 5232 added to documents
+reply 5233 added to documents
+reply 5234 added to documents
+reply 5235 added to documents
+reply 5236 added to documents
+reply 5237 added to documents
+reply 5238 added to documents
+reply 5239 added to documents
+reply 5240 added to documents
+replies bacth 524 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Replies batch 524 saved
+[{'id': '1437105883662753795', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1437094082527047680', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1437093863475273730', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1437093676551974917', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5241 added to documents
+reply 5242 added to documents
+reply 5243 added to documents
+reply 5244 added to documents
+reply 5245 added to documents
+reply 5246 added to documents
+reply 5247 added to documents
+reply 5248 added to documents
+reply 5249 added to documents
+reply 5250 added to documents
+replies bacth 525 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 525 saved
+reply 5251 added to documents
+reply 5252 added to documents
+reply 5253 added to documents
+reply 5254 added to documents
+reply 5255 added to documents
+reply 5256 added to documents
+reply 5257 added to documents
+reply 5258 added to documents
+reply 5259 added to documents
+reply 5260 added to documents
+replies bacth 526 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 526 saved
+[{'id': '1437074601167687683', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5261 added to documents
+reply 5262 added to documents
+reply 5263 added to documents
+reply 5264 added to documents
+reply 5265 added to documents
+reply 5266 added to documents
+reply 5267 added to documents
+reply 5268 added to documents
+reply 5269 added to documents
+reply 5270 added to documents
+replies bacth 527 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 527 saved
+reply 5271 added to documents
+reply 5272 added to documents
+reply 5273 added to documents
+reply 5274 added to documents
+reply 5275 added to documents
+reply 5276 added to documents
+reply 5277 added to documents
+reply 5278 added to documents
+reply 5279 added to documents
+reply 5280 added to documents
+replies bacth 528 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 528 saved
+[{'id': '1437045619131101185', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5281 added to documents
+reply 5282 added to documents
+reply 5283 added to documents
+reply 5284 added to documents
+reply 5285 added to documents
+reply 5286 added to documents
+reply 5287 added to documents
+reply 5288 added to documents
+reply 5289 added to documents
+reply 5290 added to documents
+replies bacth 529 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Replies batch 529 saved
+[{'id': '1437023711400497152', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1437011551463092228', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1437011426825187330', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1437011417723547650', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1437005498398691331', 'error': {'code': 'InvalidArgument', 'message': 'Invalid 
+document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5291 added to documents
+reply 5292 added to documents
+reply 5293 added to documents
+reply 5294 added to documents
+reply 5295 added to documents
+reply 5296 added to documents
+reply 5297 added to documents
+reply 5298 added to documents
+reply 5299 added to documents
+reply 5300 added to documents
+replies bacth 530 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 530 saved
+[{'id': '1437001706106245124', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5301 added to documents
+reply 5302 added to documents
+reply 5303 added to documents
+reply 5304 added to documents
+reply 5305 added to documents
+reply 5306 added to documents
+reply 5307 added to documents
+reply 5308 added to documents
+reply 5309 added to documents
+reply 5310 added to documents
+replies bacth 531 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 531 saved
+reply 5311 added to documents
+reply 5312 added to documents
+reply 5313 added to documents
+reply 5314 added to documents
+reply 5315 added to documents
+reply 5316 added to documents
+reply 5317 added to documents
+reply 5318 added to documents
+reply 5319 added to documents
+reply 5320 added to documents
+replies bacth 532 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 532 saved
+[{'id': '1436924819271045130', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5321 added to documents
+reply 5322 added to documents
+reply 5323 added to documents
+reply 5324 added to documents
+reply 5325 added to documents
+reply 5326 added to documents
+reply 5327 added to documents
+reply 5328 added to documents
+reply 5329 added to documents
+reply 5330 added to documents
+replies bacth 533 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Replies batch 533 saved
+[{'id': '1436885186898186243', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436883643411177474', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436874751868297217', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436873310164357124', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5331 added to documents
+reply 5332 added to documents
+reply 5333 added to documents
+reply 5334 added to documents
+reply 5335 added to documents
+reply 5336 added to documents
+reply 5337 added to documents
+reply 5338 added to documents
+reply 5339 added to documents
+reply 5340 added to documents
+replies bacth 534 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 534 saved
+reply 5341 added to documents
+reply 5342 added to documents
+reply 5343 added to documents
+reply 5344 added to documents
+reply 5345 added to documents
+reply 5346 added to documents
+reply 5347 added to documents
+reply 5348 added to documents
+reply 5349 added to documents
+reply 5350 added to documents
+replies bacth 535 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 535 saved
+reply 5351 added to documents
+reply 5352 added to documents
+reply 5353 added to documents
+reply 5354 added to documents
+reply 5355 added to documents
+reply 5356 added to documents
+reply 5357 added to documents
+reply 5358 added to documents
+reply 5359 added to documents
+reply 5360 added to documents
+replies bacth 536 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 536 saved
+[{'id': '1436366149323837475', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5151 added to documents
+reply 5152 added to documents
+reply 5153 added to documents
+reply 5154 added to documents
+reply 5155 added to documents
+reply 5156 added to documents
+reply 5157 added to documents
+reply 5158 added to documents
+reply 5159 added to documents
+reply 5160 added to documents
+replies bacth 516 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Replies batch 516 saved
+[{'id': '1436364497384624130', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}, {'id': '1436359916751671316', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5161 added to documents
+reply 5162 added to documents
+reply 5163 added to documents
+reply 5164 added to documents
+reply 5165 added to documents
+reply 5166 added to documents
+reply 5167 added to documents
+reply 5168 added to documents
+reply 5169 added to documents
+reply 5170 added to documents
+replies bacth 517 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 517 saved
+[{'id': '1436354729030955012', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5171 added to documents
+reply 5172 added to documents
+reply 5173 added to documents
+reply 5174 added to documents
+reply 5175 added to documents
+reply 5176 added to documents
+reply 5177 added to documents
+reply 5178 added to documents
+reply 5179 added to documents
+reply 5180 added to documents
+replies bacth 518 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 518 saved
+[{'id': '1436348482307207168', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5181 added to documents
+reply 5182 added to documents
+reply 5183 added to documents
+reply 5184 added to documents
+reply 5185 added to documents
+reply 5186 added to documents
+reply 5187 added to documents
+reply 5188 added to documents
+reply 5189 added to documents
+reply 5190 added to documents
+replies bacth 519 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 519 saved
+[{'id': '1436348202832257030', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5191 added to documents
+reply 5192 added to documents
+reply 5193 added to documents
+reply 5194 added to documents
+reply 5195 added to documents
+reply 5196 added to documents
+reply 5197 added to documents
+reply 5198 added to documents
+reply 5199 added to documents
+reply 5200 added to documents
+replies bacth 520 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 520 saved
+[{'id': '1436346409712820227', 'error': {'code': 'InvalidArgument', 'message': 'Invalid document in request.', 'innererror': {'code': 'InvalidDocument', 'message': 'Document text is empty.'}}}]
+reply 5201 added to documents
+reply 5202 added to documents
+reply 5203 added to documents
+reply 5204 added to documents
+reply 5205 added to documents
+reply 5206 added to documents
+reply 5207 added to documents
+reply 5208 added to documents
+reply 5209 added to documents
+reply 5210 added to documents
+replies bacth 521 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 521 saved
+reply 5211 added to documents
+reply 5212 added to documents
+reply 5213 added to documents
+reply 5214 added to documents
+reply 5215 added to documents
+reply 5216 added to documents
+reply 5217 added to documents
+reply 5218 added to documents
+reply 5219 added to documents
+reply 5220 added to documents
+replies bacth 522 sent to Azure
+Reply sentiment 1 saved
+Reply sentiment 2 saved
+Reply sentiment 3 saved
+Reply sentiment 4 saved
+Reply sentiment 5 saved
+Reply sentiment 6 saved
+Reply sentiment 7 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Reply sentiment 10 saved
+Replies batch 522 saved
+Reply sentiment 8 saved
+Reply sentiment 9 saved
+Replies batch 515 saved

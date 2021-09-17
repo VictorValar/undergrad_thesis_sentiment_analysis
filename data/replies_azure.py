@@ -10,7 +10,7 @@ def save_replies_sentiment_analysis(json_file,batch_counter) -> RepliesSentiment
         if not RepliesSentiment.objects.filter(reply_id=file['id']).first():
             reply_sentiment = RepliesSentiment()
             reply_sentiment.reply_id = file['id']
-            reply_sentiment.lenth = file['sentences'][0]['length']
+            reply_sentiment.length = file['sentences'][0]['length']
             reply_sentiment.sentiment = file['sentiment']
             reply_sentiment.positive = file['confidenceScores']['positive']
             reply_sentiment.neutral = file['confidenceScores']['neutral']
