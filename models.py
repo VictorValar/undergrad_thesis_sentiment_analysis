@@ -79,6 +79,22 @@ class RepliesMeta(mongoengine.EmbeddedDocument):
     newest_id = mongoengine.IntField()
     result_count = mongoengine.IntField()
 
+# class SummarizationSentence(mongoengine.EmbeddedDocument):
+#     text = mongoengine.StringField()
+#     rankScore = mongoengine.FloatField()
+
+class Summarizations(mongoengine.Document):
+    summarization_id = mongoengine.IntField()
+    text = mongoengine.StringField(unique=True)
+    rankScore = mongoengine.FloatField()
+    # job_id = mongoengine.StringField(unique=True)
+    # sentences = mongoengine.EmbeddedDocumentListField(SummarizationSentence)
+    
+    meta = {
+        'db_alias': 'core',
+        'collection': 'extractive_summarization'
+    }
+
 class TweetsRequests(mongoengine.Document):
     total_reply_count = mongoengine.IntField(defaut=0)
     tweets_with_replies = mongoengine.ListField(mongoengine.IntField())

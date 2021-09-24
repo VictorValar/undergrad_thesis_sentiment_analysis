@@ -32,6 +32,7 @@ def get_replies_count(conversation_id):
     headers = {"Authorization": f"Bearer {bearer_token}"}
     url = f"https://api.twitter.com/2/tweets/counts/recent?{q}"
     response = requests.request("GET", url, headers=headers)
+    # print(response.json())
     replies_count = response.json()['meta']['total_tweet_count']
     print(f'there were {replies_count} replies')
     return replies_count
@@ -52,7 +53,7 @@ def tweet_resp_has_next_page():
         if obj.request_meta.next_token != None:
             next_token = obj.request_meta.next_token
             since_id = obj.request_meta.newest_id
-            printS(
+            print(
                 f'There is a next token in the last tweet request : {next_token}')
             return next_token, since_id
         else:
@@ -69,7 +70,7 @@ def reply_resp_has_next_page():
         if obj.request_meta.next_token != None:
             next_token = obj.request_meta.next_token
             since_id = obj.request_meta.newest_id
-            printS(
+            print(
                 f'There is a next token in the last reply request: {next_token}')
             return next_token, since_id
         else:
@@ -83,7 +84,7 @@ def get_user_tweets_url(next_token, since_id, max_tweets, user):
     mrf = f"max_results={max_results}"
     q = f"query=from:{handle} -is:retweet"
     if next_token == None:
-        printS('No next token for this tweet url')
+        printW('No next token for this tweet url')
         url = f"https://api.twitter.com/2/tweets/search/recent?{mrf}&{q}&tweet.fields=lang,created_at,public_metrics,author_id"
         return url
     else:

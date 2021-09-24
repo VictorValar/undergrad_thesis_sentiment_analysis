@@ -1,6 +1,7 @@
 from models import TweetsRequests, Tweets, TweetsMeta, RepliesRequests
 from datetime import datetime
 import twitter
+from vcolors.colors import * # custom module for printing colored text in terminal
 
 def create_tt_request(tt_json_resp) -> TweetsRequests:
     if 'next_token' in tt_json_resp['meta']:
@@ -42,13 +43,17 @@ def create_tt_request(tt_json_resp) -> TweetsRequests:
                         request.total_reply_count += tweet['public_metrics']['reply_count']
                         request.tweets_with_replies.append(tweet['id'])
             else:
-                print('tweet already exist')
+                printW('tweet already exist')
+                if tweet['public_metrics']['reply_count'] != 0:
+                    if twitter.get_replies_count(tweet['id']) != 0:
+                        request.total_reply_count += tweet['public_metrics']['reply_count']
+                        request.tweets_with_replies.append(tweet['id'])
 
         print(f'there are {request.total_reply_count} replies')
         print(f'Tweets with replies: {len(request.tweets_with_replies)}')
 
         request.save()
     else:
-        print('tweet request already exists')
+        printW('tweet request already exists')
     
 

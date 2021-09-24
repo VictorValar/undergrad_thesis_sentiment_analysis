@@ -1,0 +1,154 @@
+{
+    "jobId": "8b3c2055-f347-4315-aa8a-417ac03d950e",
+    "lastUpdateDateTime": "2021-09-24T16:31:31Z",
+    "createdDateTime": "2021-09-24T16:31:12Z",
+    "expirationDateTime": "2021-09-25T16:31:12Z",
+    "status": "succeeded",
+    "errors": [],
+    "displayName": "NA",
+    "tasks": {
+        "completed": 1,
+        "failed": 0,
+        "inProgress": 0,
+        "total": 1,
+        "extractiveSummarizationTasks": [
+            {
+                "lastUpdateDateTime": "2021-09-24T16:31:31.6621188Z",
+                "taskName": "ExtractiveSummarization_latest",
+                "state": "succeeded",
+                "results": {
+                    "documents": [
+                        {
+                            "id": "1435966262656471041",
+                            "sentences": [
+                                {
+                                    "text": "\"  acho que merecia ser audivisual.",
+                                    "rankScore": 1.0,
+                                    "offset": 0,
+                                    "length": 35
+                                },
+                                {
+                                    "text": "ver a cara marrenta  de mano brown n\u00e3o tem pre\u00e7o.",
+                                    "rankScore": 0.91,
+                                    "offset": 36,
+                                    "length": 49
+                                },
+                                {
+                                    "text": "adoro seus raps, revolu\u00e7\u00e3o negra e perif\u00e9rica.",
+                                    "rankScore": 0.79,
+                                    "offset": 86,
+                                    "length": 46
+                                },
+                                {
+                                    "text": "ouvi e amei  se voc\u00ea recomenda, a\u00ed que n\u00e3o assisto mesmo.",
+                                    "rankScore": 0.79,
+                                    "offset": 134,
+                                    "length": 57
+                                },
+                                {
+                                    "text": "zurrou o maior ladr\u00e3o da hist\u00f3ria do brasil!!!",
+                                    "rankScore": 0.74,
+                                    "offset": 193,
+                                    "length": 46
+                                },
+                                {
+                                    "text": "roubou o pa\u00eds, ajudou ditaduras e grupos terroristas!!",
+                                    "rankScore": 0.75,
+                                    "offset": 240,
+                                    "length": 54
+                                },
+                                {
+                                    "text": "luladr\u00e3o seu lugar \u00e9 na pris\u00e3o!!!",
+                                    "rankScore": 0.61,
+                                    "offset": 308,
+                                    "length": 33
+                                },
+                                {
+                                    "text": "se aborto fosse bom e de sa\u00fade p\u00fablica, sua m\u00e3e teria que ter te abortado seu ladr\u00e3o cachaceiro in\u00fatil.",
+                                    "rankScore": 0.55,
+                                    "offset": 343,
+                                    "length": 103
+                                },
+                                {
+                                    "text": "ela deve se arrepender at\u00e9 hoje amargamente.",
+                                    "rankScore": 0.51,
+                                    "offset": 447,
+                                    "length": 44
+                                },
+                                {
+                                    "text": "to indo vida,calma\ud83d\ude1e\ud83d\ude2d\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f  s\u00f3 dep\u00f4s que terminar de assistir o    voc\u00ea e segunda op\u00e7\u00e3o!",
+                                    "rankScore": 0.52,
+                                    "offset": 493,
+                                    "length": 95
+                                },
+                                {
+                                    "text": "\ud83d\ude0f  esse eh lindo tbm..",
+                                    "rankScore": 0.57,
+                                    "offset": 589,
+                                    "length": 23
+                                },
+                                {
+                                    "text": "s\u00f3 no brasil para um ladr\u00e3o safado que nem vc ter voz ainda....",
+                                    "rankScore": 0.63,
+                                    "offset": 615,
+                                    "length": 63
+                                },
+                                {
+                                    "text": "mano brown tb ta uma vergonha so...",
+                                    "rankScore": 0.63,
+                                    "offset": 678,
+                                    "length": 35
+                                },
+                                {
+                                    "text": "eu so acho ele com atitudes bem racistas tb.",
+                                    "rankScore": 0.59,
+                                    "offset": 713,
+                                    "length": 44
+                                },
+                                {
+                                    "text": "a partir de hoje, a gente chama o presidente bolsonaro de : mito ou de lenda..",
+                                    "rankScore": 0.54,
+                                    "offset": 759,
+                                    "length": 78
+                                },
+                                {
+                                    "text": "\ud83d\ude01\ud83d\ude01  vai pagar a receita federal quando?",
+                                    "rankScore": 0.52,
+                                    "offset": 837,
+                                    "length": 41
+                                },
+                                {
+                                    "text": "urgente seja um estadista  marielle foi assassinada \u00edndios s\u00e3o assassinados mtst s\u00e3o assassinados favelados s\u00e3o assassinados pol\u00edticos s\u00e3o assassinados pobres s\u00e3o assassinados mendigos s\u00e3o assassinados  voc\u00eas v\u00e3o continuar, sistematicamente,parados, sem fazer absolutamente nada?",
+                                    "rankScore": 0.52,
+                                    "offset": 880,
+                                    "length": 279
+                                },
+                                {
+                                    "text": "e agora qual a descupinha???",
+                                    "rankScore": 0.55,
+                                    "offset": 1161,
+                                    "length": 28
+                                },
+                                {
+                                    "text": "j\u00e1 ouvi que sonega impostos tamb\u00e9m \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 o multi ladr\u00e3o\u2026.",
+                                    "rankScore": 0.56,
+                                    "offset": 1192,
+                                    "length": 60
+                                },
+                                {
+                                    "text": "lixo, apoiador de ladr\u00e3o  cagou pela boca  j\u00e1 e foi bom pra c*****************!",
+                                    "rankScore": 0.52,
+                                    "offset": 1254,
+                                    "length": 79
+                                }
+                            ],
+                            "warnings": []
+                        }
+                    ],
+                    "errors": [],
+                    "modelVersion": "2021-08-01"
+                }
+            }
+        ]
+    }
+}

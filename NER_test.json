@@ -1,0 +1,4864 @@
+{
+    "documents": [
+        {
+            "id": "1437296423628853249",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437286681292443649",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "lula",
+                    "category": "Person",
+                    "offset": 35,
+                    "length": 4,
+                    "confidenceScore": 0.87
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437286562505572360",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437280831173795845",
+            "entities": [
+                {
+                    "text": "2020",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 45,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437280366012817413",
+            "entities": [
+                {
+                    "text": "mbl",
+                    "category": "Organization",
+                    "offset": 3,
+                    "length": 3,
+                    "confidenceScore": 0.64
+                },
+                {
+                    "text": "jo\u00e3o d\u00f3ria",
+                    "category": "Person",
+                    "offset": 22,
+                    "length": 10,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "meia d\u00fazia",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 40,
+                    "length": 10,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "inconformados",
+                    "category": "PersonType",
+                    "offset": 54,
+                    "length": 13,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 96,
+                    "length": 9,
+                    "confidenceScore": 0.51
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437280059853836288",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437279534999539714",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437271575707979778",
+            "entities": [
+                {
+                    "text": "pedido",
+                    "category": "Skill",
+                    "offset": 19,
+                    "length": 6,
+                    "confidenceScore": 0.47
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437271525640609793",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437271192398934022",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437270849753600004",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437269621669875715",
+            "entities": [
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 41,
+                    "length": 10,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "r$ 50,00",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 62,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "r$10,00",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 79,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "bitcoin",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 100,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "coinext",
+                    "category": "Organization",
+                    "offset": 133,
+                    "length": 7,
+                    "confidenceScore": 0.69
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437267258833780739",
+            "entities": [
+                {
+                    "text": "madonna olivia anitta michael hoseok",
+                    "category": "Person",
+                    "offset": 4,
+                    "length": 36,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "billie madison",
+                    "category": "Person",
+                    "offset": 41,
+                    "length": 14,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "megan fox",
+                    "category": "Person",
+                    "offset": 67,
+                    "length": 9,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "justin bieber",
+                    "category": "Person",
+                    "offset": 77,
+                    "length": 13,
+                    "confidenceScore": 0.82
+                },
+                {
+                    "text": "marquinhos normani",
+                    "category": "Person",
+                    "offset": 91,
+                    "length": 18,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "casey troye",
+                    "category": "Person",
+                    "offset": 110,
+                    "length": 11,
+                    "confidenceScore": 0.82
+                },
+                {
+                    "text": "pilots",
+                    "category": "PersonType",
+                    "offset": 133,
+                    "length": 6,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "travis",
+                    "category": "Person",
+                    "offset": 140,
+                    "length": 6,
+                    "confidenceScore": 0.93
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437264284506103812",
+            "entities": [
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 23,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 41,
+                    "length": 10,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "d\u00f3lar",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 70,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437260294649257987",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437259414000607233",
+            "entities": [
+                {
+                    "text": "presidente bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 20,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "uma",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 26,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "mour\u00e3o",
+                    "category": "Location",
+                    "offset": 69,
+                    "length": 6,
+                    "confidenceScore": 0.38
+                },
+                {
+                    "text": "filhos",
+                    "category": "PersonType",
+                    "offset": 152,
+                    "length": 6,
+                    "confidenceScore": 0.62
+                },
+                {
+                    "text": "fl\u00e1vio",
+                    "category": "Person",
+                    "offset": 160,
+                    "length": 6,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "eduardo",
+                    "category": "Person",
+                    "offset": 169,
+                    "length": 7,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 199,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "uma",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 246,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437256619746865157",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437254149712842752",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437248092659666944",
+            "entities": [
+                {
+                    "text": "5",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 15,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437245844739272708",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437244866459836421",
+            "entities": [
+                {
+                    "text": "noite",
+                    "category": "DateTime",
+                    "subcategory": "TimeRange",
+                    "offset": 5,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 11,
+                    "length": 10,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "covid",
+                    "category": "Organization",
+                    "offset": 191,
+                    "length": 5,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "vacina",
+                    "category": "Product",
+                    "offset": 275,
+                    "length": 6,
+                    "confidenceScore": 0.6
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437243243222142979",
+            "entities": [
+                {
+                    "text": "vereadores",
+                    "category": "PersonType",
+                    "offset": 37,
+                    "length": 10,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "carni\u00e7a",
+                    "category": "Event",
+                    "offset": 103,
+                    "length": 7,
+                    "confidenceScore": 0.86
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437242898509094913",
+            "entities": [
+                {
+                    "text": "brasil",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 29,
+                    "length": 6,
+                    "confidenceScore": 0.78
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437242880171646983",
+            "entities": [
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 214,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437242205069058055",
+            "entities": [
+                {
+                    "text": "governadores",
+                    "category": "PersonType",
+                    "offset": 50,
+                    "length": 12,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "vereadores",
+                    "category": "PersonType",
+                    "offset": 64,
+                    "length": 10,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "prefeitos",
+                    "category": "PersonType",
+                    "offset": 76,
+                    "length": 9,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 245,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437241789115736070",
+            "entities": [
+                {
+                    "text": "capit\u00e3o",
+                    "category": "PersonType",
+                    "offset": 19,
+                    "length": 7,
+                    "confidenceScore": 0.95
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437236327381184515",
+            "entities": [
+                {
+                    "text": "noite",
+                    "category": "DateTime",
+                    "subcategory": "TimeRange",
+                    "offset": 5,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 11,
+                    "length": 10,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "publico",
+                    "category": "PersonType",
+                    "offset": 37,
+                    "length": 7,
+                    "confidenceScore": 0.48
+                },
+                {
+                    "text": "alagoas",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 48,
+                    "length": 7,
+                    "confidenceScore": 0.83
+                },
+                {
+                    "text": "mpe",
+                    "category": "Organization",
+                    "offset": 65,
+                    "length": 3,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "vacina",
+                    "category": "Product",
+                    "offset": 233,
+                    "length": 6,
+                    "confidenceScore": 0.6
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437236288890015756",
+            "entities": [
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 16,
+                    "length": 10,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "at\u00e9 2026",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 27,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437231828105039874",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "povo",
+                    "category": "PersonType",
+                    "offset": 44,
+                    "length": 4,
+                    "confidenceScore": 0.53
+                },
+                {
+                    "text": "brasileiro",
+                    "category": "PersonType",
+                    "offset": 49,
+                    "length": 10,
+                    "confidenceScore": 0.72
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437231758844612608",
+            "entities": [
+                {
+                    "text": "presidente da rep\u00fablica",
+                    "category": "PersonType",
+                    "offset": 45,
+                    "length": 23,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "2022",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 91,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "brasil",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 115,
+                    "length": 6,
+                    "confidenceScore": 0.71
+                },
+                {
+                    "text": "noite",
+                    "category": "DateTime",
+                    "subcategory": "TimeRange",
+                    "offset": 163,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437227858489905152",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437225261108449286",
+            "entities": [
+                {
+                    "text": "micurine",
+                    "category": "Person",
+                    "offset": 8,
+                    "length": 8,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "vacina",
+                    "category": "Product",
+                    "offset": 30,
+                    "length": 6,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "viruz",
+                    "category": "Person",
+                    "offset": 57,
+                    "length": 5,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "agora",
+                    "category": "DateTime",
+                    "offset": 65,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437222370096390148",
+            "entities": [
+                {
+                    "text": "eca",
+                    "category": "Organization",
+                    "offset": 1,
+                    "length": 3,
+                    "confidenceScore": 0.7
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437221677344174085",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437220665623556102",
+            "entities": [
+                {
+                    "text": "barril",
+                    "category": "Quantity",
+                    "subcategory": "Dimension",
+                    "offset": 30,
+                    "length": 6,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "petrobras",
+                    "category": "Organization",
+                    "offset": 79,
+                    "length": 9,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "brasileiros",
+                    "category": "PersonType",
+                    "offset": 118,
+                    "length": 11,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "afilhado",
+                    "category": "PersonType",
+                    "offset": 178,
+                    "length": 8,
+                    "confidenceScore": 0.66
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437218286815563779",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437218081617727490",
+            "entities": [
+                {
+                    "text": "poh",
+                    "category": "Person",
+                    "offset": 19,
+                    "length": 3,
+                    "confidenceScore": 0.87
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437217425720815618",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 6,
+                    "length": 9,
+                    "confidenceScore": 0.87
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437217309945470977",
+            "entities": [
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 27,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "man\u00edaco",
+                    "category": "PersonType",
+                    "offset": 30,
+                    "length": 7,
+                    "confidenceScore": 0.63
+                },
+                {
+                    "text": "77%",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 133,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "brasileiros",
+                    "category": "PersonType",
+                    "offset": 168,
+                    "length": 11,
+                    "confidenceScore": 0.85
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437217269990535169",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437217176247746560",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437216379543904258",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 6,
+                    "length": 9,
+                    "confidenceScore": 0.51
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437216022071816198",
+            "entities": [
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 10,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "rio grande do sul",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 20,
+                    "length": 17,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "bibo nunes",
+                    "category": "Person",
+                    "offset": 55,
+                    "length": 10,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "governador",
+                    "category": "PersonType",
+                    "offset": 71,
+                    "length": 10,
+                    "confidenceScore": 0.91
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437215872448335879",
+            "entities": [
+                {
+                    "text": "2022",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437214579336044546",
+            "entities": [
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 37,
+                    "length": 10,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "brasil",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 63,
+                    "length": 6,
+                    "confidenceScore": 0.87
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437212846069256200",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437211888849506316",
+            "entities": [
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 23,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437205511989039106",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437204793622245380",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437204186568044548",
+            "entities": [
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 69,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 104,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "brasileiro",
+                    "category": "PersonType",
+                    "offset": 107,
+                    "length": 10,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "uma",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 138,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437198335702708230",
+            "entities": [
+                {
+                    "text": "impostor",
+                    "category": "PersonType",
+                    "offset": 35,
+                    "length": 8,
+                    "confidenceScore": 0.62
+                },
+                {
+                    "text": "tanque de \u00e1cido",
+                    "category": "Product",
+                    "offset": 91,
+                    "length": 15,
+                    "confidenceScore": 0.51
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437193940994871301",
+            "entities": [
+                {
+                    "text": "912 mil",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437193513624608768",
+            "entities": [
+                {
+                    "text": "b\u00edblia",
+                    "category": "Product",
+                    "offset": 3,
+                    "length": 6,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 37,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 81,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "n\u00f3s",
+                    "category": "Quantity",
+                    "subcategory": "Dimension",
+                    "offset": 132,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437193259546202114",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437192935246868481",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437189286076592129",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437186560592687104",
+            "entities": [
+                {
+                    "text": "bolsojudas",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 10,
+                    "confidenceScore": 0.37
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437185811536023555",
+            "entities": [
+                {
+                    "text": "manifesta\u00e7\u00e3o mbl virou lgbt",
+                    "category": "Event",
+                    "offset": 1,
+                    "length": 27,
+                    "confidenceScore": 0.65
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437181511372005379",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437179617178173443",
+            "entities": [
+                {
+                    "text": "bolsojudas",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 10,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "brasileiro",
+                    "category": "PersonType",
+                    "offset": 107,
+                    "length": 10,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "patriotas",
+                    "category": "PersonType",
+                    "offset": 165,
+                    "length": 9,
+                    "confidenceScore": 0.64
+                },
+                {
+                    "text": "generais",
+                    "category": "PersonType",
+                    "offset": 212,
+                    "length": 8,
+                    "confidenceScore": 0.63
+                },
+                {
+                    "text": "traidores",
+                    "category": "PersonType",
+                    "offset": 221,
+                    "length": 9,
+                    "confidenceScore": 0.49
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437176934987874304",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437175150143700992",
+            "entities": [
+                {
+                    "text": "guerra",
+                    "category": "Event",
+                    "offset": 3,
+                    "length": 6,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "uma",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 35,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "batalha",
+                    "category": "Event",
+                    "offset": 39,
+                    "length": 7,
+                    "confidenceScore": 0.53
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437173930565963776",
+            "entities": [
+                {
+                    "text": "bozo",
+                    "category": "Person",
+                    "offset": 6,
+                    "length": 4,
+                    "confidenceScore": 0.73
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437163593125015555",
+            "entities": [
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 10,
+                    "length": 10,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "cidad\u00e3o",
+                    "category": "PersonType",
+                    "offset": 65,
+                    "length": 7,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "amanha",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 82,
+                    "length": 6,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "brasileiro",
+                    "category": "PersonType",
+                    "offset": 249,
+                    "length": 10,
+                    "confidenceScore": 0.75
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437162109444440069",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Organization",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.38
+                },
+                {
+                    "text": "imprensa  traditional",
+                    "category": "Organization",
+                    "offset": 14,
+                    "length": 21,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "cnn",
+                    "category": "Organization",
+                    "offset": 37,
+                    "length": 3,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "globo news",
+                    "category": "Organization",
+                    "offset": 42,
+                    "length": 10,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "bande",
+                    "category": "Organization",
+                    "offset": 54,
+                    "length": 5,
+                    "confidenceScore": 0.5
+                },
+                {
+                    "text": "n\u00f3s",
+                    "category": "Quantity",
+                    "subcategory": "Dimension",
+                    "offset": 96,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "tr\u00eas",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 100,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 175,
+                    "length": 9,
+                    "confidenceScore": 0.84
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437161091105185793",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437159809569148933",
+            "entities": [
+                {
+                    "text": "pol\u00edtica",
+                    "category": "Skill",
+                    "offset": 41,
+                    "length": 8,
+                    "confidenceScore": 0.86
+                },
+                {
+                    "text": "20 hs",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 103,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437157833271824389",
+            "entities": [
+                {
+                    "text": "ipiranga",
+                    "category": "PersonType",
+                    "offset": 12,
+                    "length": 8,
+                    "confidenceScore": 0.85
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437156990455799809",
+            "entities": [
+                {
+                    "text": "exmo",
+                    "category": "PersonType",
+                    "offset": 15,
+                    "length": 4,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "presidente bolsonaro",
+                    "category": "PersonType",
+                    "offset": 20,
+                    "length": 20,
+                    "confidenceScore": 0.73
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437155496927141892",
+            "entities": [
+                {
+                    "text": "tilove",
+                    "category": "Person",
+                    "offset": 12,
+                    "length": 6,
+                    "confidenceScore": 0.44
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437153179754450952",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 6,
+                    "length": 9,
+                    "confidenceScore": 0.51
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437150719048568843",
+            "entities": [
+                {
+                    "text": "telegram",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 8,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "arreg\u00e3o corno",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 13,
+                    "length": 13,
+                    "confidenceScore": 0.84
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437142322114924549",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "economista",
+                    "category": "PersonType",
+                    "offset": 18,
+                    "length": 10,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "paulo guedes",
+                    "category": "Person",
+                    "offset": 39,
+                    "length": 12,
+                    "confidenceScore": 0.86
+                },
+                {
+                    "text": "bacen",
+                    "category": "Organization",
+                    "offset": 86,
+                    "length": 5,
+                    "confidenceScore": 0.5
+                },
+                {
+                    "text": "at\u00e9 agora",
+                    "category": "DateTime",
+                    "subcategory": "DateTimeRange",
+                    "offset": 92,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "d\u00f3lar",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 121,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "5,50",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 129,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "100 bilhoes",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 147,
+                    "length": 11,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "550 bilh\u00f5es de reais",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 199,
+                    "length": 20,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437141713596960776",
+            "entities": [
+                {
+                    "text": "bolsonaro pensa",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 15,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "2019",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 31,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "ministro de minas",
+                    "category": "PersonType",
+                    "offset": 40,
+                    "length": 17,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 82,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "-3",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 93,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "-4",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 99,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "30",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 107,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "g\u00e1s",
+                    "category": "Product",
+                    "offset": 142,
+                    "length": 3,
+                    "confidenceScore": 0.5
+                },
+                {
+                    "text": "2022",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 161,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "2",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 206,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "itaipu",
+                    "category": "Location",
+                    "offset": 208,
+                    "length": 6,
+                    "confidenceScore": 0.5
+                },
+                {
+                    "text": "100 mil",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 224,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437141045913980932",
+            "entities": [
+                {
+                    "text": "at\u00e9 agora",
+                    "category": "DateTime",
+                    "subcategory": "DateTimeRange",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "angra 3",
+                    "category": "Location",
+                    "offset": 25,
+                    "length": 7,
+                    "confidenceScore": 0.39
+                },
+                {
+                    "text": "3",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 31,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "ministro",
+                    "category": "PersonType",
+                    "offset": 59,
+                    "length": 8,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 70,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "leil\u00f5es",
+                    "category": "Event",
+                    "offset": 118,
+                    "length": 7,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "manaus",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 183,
+                    "length": 6,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "at\u00e9 hoje",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 190,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437140240968343559",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.42
+                },
+                {
+                    "text": "rog\u00e9rio marinho precisa",
+                    "category": "Person",
+                    "offset": 13,
+                    "length": 23,
+                    "confidenceScore": 0.86
+                },
+                {
+                    "text": "at\u00e9 abril",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 137,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "elei\u00e7\u00e3o",
+                    "category": "Event",
+                    "offset": 193,
+                    "length": 7,
+                    "confidenceScore": 0.82
+                },
+                {
+                    "text": "ministro",
+                    "category": "PersonType",
+                    "offset": 232,
+                    "length": 8,
+                    "confidenceScore": 0.45
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 246,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437139840160645124",
+            "entities": [
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 10,
+                    "length": 10,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 126,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "rt",
+                    "category": "Product",
+                    "offset": 129,
+                    "length": 2,
+                    "confidenceScore": 0.81
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437139560601882631",
+            "entities": [
+                {
+                    "text": "o pedro guimar\u00e3es cuidar",
+                    "category": "Person",
+                    "offset": 11,
+                    "length": 24,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "brasil",
+                    "category": "Organization",
+                    "offset": 55,
+                    "length": 6,
+                    "confidenceScore": 0.5
+                },
+                {
+                    "text": "bndes",
+                    "category": "Organization",
+                    "offset": 66,
+                    "length": 5,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "basa",
+                    "category": "Organization",
+                    "offset": 73,
+                    "length": 4,
+                    "confidenceScore": 0.4
+                },
+                {
+                    "text": "bnb",
+                    "category": "Organization",
+                    "offset": 79,
+                    "length": 3,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "brasil",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 85,
+                    "length": 6,
+                    "confidenceScore": 0.53
+                },
+                {
+                    "text": "uma",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 100,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "paulo guedes",
+                    "category": "Person",
+                    "offset": 151,
+                    "length": 12,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "24 horas",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 202,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437139008329506818",
+            "entities": [
+                {
+                    "text": "ministro da economia",
+                    "category": "PersonType",
+                    "offset": 11,
+                    "length": 20,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "pedro guimar\u00e3es",
+                    "category": "Person",
+                    "offset": 46,
+                    "length": 15,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "vice presidente",
+                    "category": "PersonType",
+                    "offset": 75,
+                    "length": 15,
+                    "confidenceScore": 0.82
+                },
+                {
+                    "text": "tarc\u00edsio",
+                    "category": "Person",
+                    "offset": 118,
+                    "length": 8,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "governador",
+                    "category": "PersonType",
+                    "offset": 132,
+                    "length": 10,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "sp",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 146,
+                    "length": 2,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "tarc\u00edsio",
+                    "category": "Person",
+                    "offset": 160,
+                    "length": 8,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "vice",
+                    "category": "PersonType",
+                    "offset": 174,
+                    "length": 4,
+                    "confidenceScore": 0.43
+                },
+                {
+                    "text": "3",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 191,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "mdr",
+                    "category": "Organization",
+                    "offset": 253,
+                    "length": 3,
+                    "confidenceScore": 0.83
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 263,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437138494875373569",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "o paulo guedes e",
+                    "category": "Person",
+                    "offset": 17,
+                    "length": 16,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "bb",
+                    "category": "Organization",
+                    "offset": 50,
+                    "length": 2,
+                    "confidenceScore": 0.36
+                },
+                {
+                    "text": "10 bilh\u00f5es",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 131,
+                    "length": 10,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "paulo guedes",
+                    "category": "Person",
+                    "offset": 252,
+                    "length": 12,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437138039692832772",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "esse paulo guedes",
+                    "category": "Person",
+                    "offset": 36,
+                    "length": 17,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "moleque",
+                    "category": "PersonType",
+                    "offset": 58,
+                    "length": 7,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 66,
+                    "length": 10,
+                    "confidenceScore": 0.45
+                },
+                {
+                    "text": "bndes",
+                    "category": "PersonType",
+                    "offset": 80,
+                    "length": 5,
+                    "confidenceScore": 0.48
+                },
+                {
+                    "text": "bndes-par",
+                    "category": "Organization",
+                    "offset": 131,
+                    "length": 9,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "60 bilh\u00f5es",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 207,
+                    "length": 10,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "1,5 milh\u00e3o",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 252,
+                    "length": 10,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437137481800065027",
+            "entities": [
+                {
+                    "text": "at\u00e9 hoje",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "ministro da educa\u00e7\u00e3o",
+                    "category": "PersonType",
+                    "offset": 28,
+                    "length": 20,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 60,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "500",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 96,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "creches",
+                    "category": "Location",
+                    "offset": 100,
+                    "length": 7,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "col\u00e9gios militares",
+                    "category": "Location",
+                    "offset": 170,
+                    "length": 18,
+                    "confidenceScore": 0.48
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 268,
+                    "length": 9,
+                    "confidenceScore": 0.72
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437136988914733060",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "ministro",
+                    "category": "PersonType",
+                    "offset": 34,
+                    "length": 8,
+                    "confidenceScore": 0.5
+                },
+                {
+                    "text": "brasil",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 98,
+                    "length": 6,
+                    "confidenceScore": 0.69
+                },
+                {
+                    "text": "at\u00e9 abril",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 107,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437136666410557447",
+            "entities": [
+                {
+                    "text": "brasil",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 103,
+                    "length": 6,
+                    "confidenceScore": 0.94
+                },
+                {
+                    "text": "hoje",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 166,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437136411715678212",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "reforma administrativa",
+                    "category": "Skill",
+                    "offset": 39,
+                    "length": 22,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "paulo guedes",
+                    "category": "Person",
+                    "offset": 131,
+                    "length": 12,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "2",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 160,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "correios",
+                    "category": "Organization",
+                    "offset": 180,
+                    "length": 8,
+                    "confidenceScore": 0.46
+                },
+                {
+                    "text": "eletrobras",
+                    "category": "Organization",
+                    "offset": 194,
+                    "length": 10,
+                    "confidenceScore": 0.7
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437136172959076354",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437135489002311680",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "brasil",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 22,
+                    "length": 6,
+                    "confidenceScore": 0.46
+                },
+                {
+                    "text": "patag\u00f4nia",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 144,
+                    "length": 9,
+                    "confidenceScore": 0.47
+                },
+                {
+                    "text": "bb",
+                    "category": "Organization",
+                    "offset": 256,
+                    "length": 2,
+                    "confidenceScore": 0.82
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437134979436318724",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "100%",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 84,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "paulo guedes",
+                    "category": "Person",
+                    "offset": 113,
+                    "length": 12,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "minist\u00e9rio do tarc\u00edsio",
+                    "category": "Organization",
+                    "offset": 166,
+                    "length": 22,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "marinho",
+                    "category": "Organization",
+                    "offset": 194,
+                    "length": 7,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "2 bilh\u00f5es",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 212,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 229,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437133170084880391",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437131655706288136",
+            "entities": [
+                {
+                    "text": "cose",
+                    "category": "Person",
+                    "offset": 14,
+                    "length": 4,
+                    "confidenceScore": 0.43
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 78,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "trinta anos",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 91,
+                    "length": 11,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "logo agora",
+                    "category": "DateTime",
+                    "offset": 134,
+                    "length": 10,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437129653966282754",
+            "entities": [
+                {
+                    "text": "negocie",
+                    "category": "Skill",
+                    "offset": 5,
+                    "length": 7,
+                    "confidenceScore": 0.53
+                },
+                {
+                    "text": "pol\u00edticos vagabundos",
+                    "category": "PersonType",
+                    "offset": 27,
+                    "length": 20,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "400 mil",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 91,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "moradias",
+                    "category": "Location",
+                    "offset": 99,
+                    "length": 8,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "rodovias",
+                    "category": "Location",
+                    "offset": 109,
+                    "length": 8,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "mobilidade",
+                    "category": "Skill",
+                    "offset": 130,
+                    "length": 10,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "execu\u00e7\u00e3o",
+                    "category": "Skill",
+                    "offset": 178,
+                    "length": 8,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "95%",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 213,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "ministros",
+                    "category": "PersonType",
+                    "offset": 229,
+                    "length": 9,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "tarc\u00edsio",
+                    "category": "Person",
+                    "offset": 271,
+                    "length": 8,
+                    "confidenceScore": 0.9
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437129177338163205",
+            "entities": [
+                {
+                    "text": "mestre",
+                    "category": "PersonType",
+                    "offset": 13,
+                    "length": 6,
+                    "confidenceScore": 0.65
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437129107851067394",
+            "entities": [
+                {
+                    "text": "de agora at\u00e9 dezembro",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1,
+                    "length": 21,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "ministros",
+                    "category": "PersonType",
+                    "offset": 31,
+                    "length": 9,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "primeiro",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 261,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437128527099355140",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "s\u00e3o paulo",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 45,
+                    "length": 9,
+                    "confidenceScore": 0.94
+                },
+                {
+                    "text": "rj",
+                    "category": "Location",
+                    "offset": 58,
+                    "length": 2,
+                    "confidenceScore": 0.39
+                },
+                {
+                    "text": "minas",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 64,
+                    "length": 5,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "3",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 74,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "col\u00e9gios",
+                    "category": "Location",
+                    "offset": 84,
+                    "length": 8,
+                    "confidenceScore": 0.62
+                },
+                {
+                    "text": "rj",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 131,
+                    "length": 2,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "mg",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 136,
+                    "length": 2,
+                    "confidenceScore": 0.35
+                },
+                {
+                    "text": "mg",
+                    "category": "Quantity",
+                    "subcategory": "Dimension",
+                    "offset": 136,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "governadores",
+                    "category": "PersonType",
+                    "offset": 156,
+                    "length": 12,
+                    "confidenceScore": 0.52
+                },
+                {
+                    "text": "sp",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 171,
+                    "length": 2,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "doria",
+                    "category": "Organization",
+                    "offset": 176,
+                    "length": 5,
+                    "confidenceScore": 0.23
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437127958808891392",
+            "entities": [
+                {
+                    "text": "isa\u00edas",
+                    "category": "Person",
+                    "offset": 133,
+                    "length": 6,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "54/17",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 140,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437127716554280966",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437126811587125250",
+            "entities": [
+                {
+                    "text": "twitter",
+                    "category": "Organization",
+                    "offset": 35,
+                    "length": 7,
+                    "confidenceScore": 0.61
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437126739071754241",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 40,
+                    "length": 9,
+                    "confidenceScore": 0.4
+                },
+                {
+                    "text": "2",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 72,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "uma",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 89,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 115,
+                    "length": 10,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "brasil",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 160,
+                    "length": 6,
+                    "confidenceScore": 0.87
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437126633295687682",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "tarc\u00edsio",
+                    "category": "Person",
+                    "offset": 38,
+                    "length": 8,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "aeroporto regional",
+                    "category": "Location",
+                    "offset": 60,
+                    "length": 18,
+                    "confidenceScore": 0.62
+                },
+                {
+                    "text": "terminal pesqueiro",
+                    "category": "Location",
+                    "offset": 79,
+                    "length": 18,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "ribeirinhos",
+                    "category": "Location",
+                    "offset": 120,
+                    "length": 11,
+                    "confidenceScore": 0.53
+                },
+                {
+                    "text": "exija",
+                    "category": "Person",
+                    "offset": 191,
+                    "length": 5,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "paulo guedes",
+                    "category": "Person",
+                    "offset": 200,
+                    "length": 12,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "2 bilh\u00f5es",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 218,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437126357272629248",
+            "entities": [
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 23,
+                    "length": 10,
+                    "confidenceScore": 0.9
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437125919420846080",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.29
+                },
+                {
+                    "text": "itaipu",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 66,
+                    "length": 6,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "2,5",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 93,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "agora",
+                    "category": "DateTime",
+                    "offset": 107,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "petrobr\u00e1s",
+                    "category": "Organization",
+                    "offset": 116,
+                    "length": 9,
+                    "confidenceScore": 0.69
+                },
+                {
+                    "text": "800",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 138,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "300",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 168,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "col\u00e9gios militares",
+                    "category": "Location",
+                    "offset": 172,
+                    "length": 18,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "400",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 191,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "creches",
+                    "category": "Location",
+                    "offset": 195,
+                    "length": 7,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "1.000",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 204,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "cisternas",
+                    "category": "Location",
+                    "offset": 210,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "500",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 221,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "po\u00e7os artesianos",
+                    "category": "Location",
+                    "offset": 225,
+                    "length": 16,
+                    "confidenceScore": 0.46
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437125066509148164",
+            "entities": [
+                {
+                    "text": "elei\u00e7\u00f5es",
+                    "category": "Event",
+                    "offset": 35,
+                    "length": 8,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "24 horas",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 64,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "paulo guedes",
+                    "category": "Person",
+                    "offset": 93,
+                    "length": 12,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "banqueiros",
+                    "category": "PersonType",
+                    "offset": 205,
+                    "length": 10,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "6%",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 238,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437124502719238150",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 16,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "mobilidade",
+                    "category": "Skill",
+                    "offset": 92,
+                    "length": 10,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "tarc\u00edsio",
+                    "category": "Person",
+                    "offset": 112,
+                    "length": 8,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "rodovias",
+                    "category": "Location",
+                    "offset": 137,
+                    "length": 8,
+                    "confidenceScore": 0.48
+                },
+                {
+                    "text": "creches",
+                    "category": "Location",
+                    "offset": 146,
+                    "length": 7,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "cisternas",
+                    "category": "Location",
+                    "offset": 155,
+                    "length": 9,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "antenas",
+                    "category": "Location",
+                    "offset": 165,
+                    "length": 7,
+                    "confidenceScore": 0.49
+                },
+                {
+                    "text": "upa",
+                    "category": "Location",
+                    "offset": 183,
+                    "length": 3,
+                    "confidenceScore": 0.64
+                },
+                {
+                    "text": "ubs",
+                    "category": "Location",
+                    "offset": 187,
+                    "length": 3,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "col\u00e9gios militares",
+                    "category": "Location",
+                    "offset": 191,
+                    "length": 18,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "po\u00e7os artesianos",
+                    "category": "Location",
+                    "offset": 210,
+                    "length": 16,
+                    "confidenceScore": 0.87
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437123668379852800",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "de setembro at\u00e9 abril",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 18,
+                    "length": 21,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "7 meses",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 164,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "agora",
+                    "category": "DateTime",
+                    "offset": 192,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437121517826023425",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Product",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.49
+                },
+                {
+                    "text": "cal\u00e7a frouxa",
+                    "category": "Product",
+                    "offset": 11,
+                    "length": 12,
+                    "confidenceScore": 0.89
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437120066634625029",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 98,
+                    "length": 9,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "mestre",
+                    "category": "PersonType",
+                    "offset": 164,
+                    "length": 6,
+                    "confidenceScore": 0.9
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437119904818343938",
+            "entities": [
+                {
+                    "text": "stf",
+                    "category": "Organization",
+                    "offset": 13,
+                    "length": 3,
+                    "confidenceScore": 0.67
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437119897008545793",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437119012236939268",
+            "entities": [
+                {
+                    "text": "sun tzu",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437118368025354241",
+            "entities": [
+                {
+                    "text": "leil\u00e3o",
+                    "category": "Event",
+                    "offset": 24,
+                    "length": 6,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "t\u00e9rmicas",
+                    "category": "Event",
+                    "offset": 34,
+                    "length": 8,
+                    "confidenceScore": 0.43
+                },
+                {
+                    "text": "g\u00e1s",
+                    "category": "Product",
+                    "offset": 45,
+                    "length": 3,
+                    "confidenceScore": 0.46
+                },
+                {
+                    "text": "ministro",
+                    "category": "PersonType",
+                    "offset": 98,
+                    "length": 8,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "30",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 146,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "150 mil",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 178,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "33 g",
+                    "category": "Quantity",
+                    "subcategory": "Dimension",
+                    "offset": 197,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "3",
+                    "category": "DateTime",
+                    "subcategory": "Time",
+                    "offset": 227,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "itaipu",
+                    "category": "Organization",
+                    "offset": 229,
+                    "length": 6,
+                    "confidenceScore": 0.58
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437118101292736522",
+            "entities": [
+                {
+                    "text": "ikou",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 4,
+                    "confidenceScore": 0.94
+                },
+                {
+                    "text": "now united",
+                    "category": "Organization",
+                    "offset": 26,
+                    "length": 10,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "hina yoshihara",
+                    "category": "Person",
+                    "offset": 54,
+                    "length": 14,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "integrante",
+                    "category": "PersonType",
+                    "offset": 70,
+                    "length": 10,
+                    "confidenceScore": 0.51
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437117848472723461",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 11,
+                    "length": 9,
+                    "confidenceScore": 0.39
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 74,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "ladr\u00e3o",
+                    "category": "PersonType",
+                    "offset": 77,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437117787978219525",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "governo",
+                    "category": "Skill",
+                    "offset": 33,
+                    "length": 7,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "bento",
+                    "category": "Person",
+                    "offset": 62,
+                    "length": 5,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "ministro de minas e energia",
+                    "category": "PersonType",
+                    "offset": 68,
+                    "length": 27,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "desde 2019",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 117,
+                    "length": 10,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "20",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 150,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "usinas termoel\u00e9tricas",
+                    "category": "Location",
+                    "offset": 153,
+                    "length": 21,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "2022",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 223,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437117296800112642",
+            "entities": [
+                {
+                    "text": "vota\u00e7\u00f5es paradas",
+                    "category": "Event",
+                    "offset": 15,
+                    "length": 16,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "senado",
+                    "category": "Organization",
+                    "offset": 35,
+                    "length": 6,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "br",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 45,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "mar",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 51,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "ferrovias",
+                    "category": "Location",
+                    "offset": 66,
+                    "length": 9,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "3 milh\u00f5es",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 121,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "vagabundos",
+                    "category": "PersonType",
+                    "offset": 195,
+                    "length": 10,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "emprego",
+                    "category": "Skill",
+                    "offset": 235,
+                    "length": 7,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "jovens",
+                    "category": "PersonType",
+                    "offset": 247,
+                    "length": 6,
+                    "confidenceScore": 0.51
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437116742375968777",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "paulo guedes",
+                    "category": "Person",
+                    "offset": 13,
+                    "length": 12,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "l\u00edderes",
+                    "category": "PersonType",
+                    "offset": 112,
+                    "length": 7,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "senado",
+                    "category": "Organization",
+                    "offset": 132,
+                    "length": 6,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "bandido desgra\u00e7ado",
+                    "category": "PersonType",
+                    "offset": 197,
+                    "length": 18,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "pacheco",
+                    "category": "Person",
+                    "offset": 241,
+                    "length": 7,
+                    "confidenceScore": 0.31
+                },
+                {
+                    "text": "kassab",
+                    "category": "Product",
+                    "offset": 273,
+                    "length": 6,
+                    "confidenceScore": 0.93
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437116575253995522",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437116532358893571",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 7,
+                    "length": 9,
+                    "confidenceScore": 0.49
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 22,
+                    "length": 9,
+                    "confidenceScore": 0.64
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 37,
+                    "length": 9,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 52,
+                    "length": 9,
+                    "confidenceScore": 0.52
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 67,
+                    "length": 9,
+                    "confidenceScore": 0.47
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 82,
+                    "length": 9,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 97,
+                    "length": 9,
+                    "confidenceScore": 0.5
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 112,
+                    "length": 9,
+                    "confidenceScore": 0.47
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 127,
+                    "length": 9,
+                    "confidenceScore": 0.52
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 142,
+                    "length": 9,
+                    "confidenceScore": 0.53
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 157,
+                    "length": 9,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 172,
+                    "length": 9,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 187,
+                    "length": 9,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 202,
+                    "length": 9,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 217,
+                    "length": 9,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 232,
+                    "length": 9,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 247,
+                    "length": 9,
+                    "confidenceScore": 0.68
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437116169694109700",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "pedro guimar\u00e3es anunciou",
+                    "category": "Person",
+                    "offset": 13,
+                    "length": 24,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "uma",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 64,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "100 milh\u00f5es",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 90,
+                    "length": 11,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "brasileiros",
+                    "category": "PersonType",
+                    "offset": 105,
+                    "length": 11,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "ate dezembro",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 232,
+                    "length": 12,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "brasil",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 249,
+                    "length": 6,
+                    "confidenceScore": 0.86
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437115539520897026",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "at\u00e9 abril",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 18,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "elei\u00e7\u00f5es",
+                    "category": "Event",
+                    "offset": 43,
+                    "length": 8,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "2 milh\u00f5es",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 110,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "400 mil",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 142,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "casa",
+                    "category": "Location",
+                    "offset": 162,
+                    "length": 4,
+                    "confidenceScore": 0.43
+                },
+                {
+                    "text": "creches",
+                    "category": "Location",
+                    "offset": 206,
+                    "length": 7,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "upa",
+                    "category": "Location",
+                    "offset": 214,
+                    "length": 3,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "ubs",
+                    "category": "Location",
+                    "offset": 218,
+                    "length": 3,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "cisternas",
+                    "category": "Location",
+                    "offset": 223,
+                    "length": 9,
+                    "confidenceScore": 0.86
+                },
+                {
+                    "text": "po\u00e7os artesianos",
+                    "category": "Location",
+                    "offset": 233,
+                    "length": 16,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "col\u00e9gios militares",
+                    "category": "Location",
+                    "offset": 251,
+                    "length": 18,
+                    "confidenceScore": 0.9
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437114963076829184",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.82
+                },
+                {
+                    "text": "moradias",
+                    "category": "Location",
+                    "offset": 26,
+                    "length": 8,
+                    "confidenceScore": 0.69
+                },
+                {
+                    "text": "creches",
+                    "category": "Location",
+                    "offset": 35,
+                    "length": 7,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "cisternas",
+                    "category": "Location",
+                    "offset": 44,
+                    "length": 9,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "col\u00e9gios militares",
+                    "category": "Location",
+                    "offset": 54,
+                    "length": 18,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "po\u00e7os artesianos",
+                    "category": "Location",
+                    "offset": 73,
+                    "length": 16,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "upa",
+                    "category": "Location",
+                    "offset": 90,
+                    "length": 3,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "ubs",
+                    "category": "Location",
+                    "offset": 94,
+                    "length": 3,
+                    "confidenceScore": 0.53
+                },
+                {
+                    "text": "tarc\u00edsio",
+                    "category": "Person",
+                    "offset": 146,
+                    "length": 8,
+                    "confidenceScore": 0.42
+                },
+                {
+                    "text": "leil\u00f5es",
+                    "category": "Event",
+                    "offset": 160,
+                    "length": 7,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "primeiro",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 200,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437114668468822021",
+            "entities": [
+                {
+                    "text": "telegran jmb",
+                    "category": "Organization",
+                    "offset": 11,
+                    "length": 12,
+                    "confidenceScore": 0.84
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437114271050223622",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.82
+                },
+                {
+                    "text": "uma",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 14,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "elei\u00e7\u00e3o",
+                    "category": "Event",
+                    "offset": 30,
+                    "length": 7,
+                    "confidenceScore": 0.63
+                },
+                {
+                    "text": "paulo guedes",
+                    "category": "Person",
+                    "offset": 121,
+                    "length": 12,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 139,
+                    "length": 10,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "d\u00f3lar",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 234,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "4,80",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 244,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437113801258717184",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "agora",
+                    "category": "DateTime",
+                    "offset": 27,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "ministro",
+                    "category": "PersonType",
+                    "offset": 76,
+                    "length": 8,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "da puta",
+                    "category": "PersonType",
+                    "offset": 134,
+                    "length": 7,
+                    "confidenceScore": 0.44
+                },
+                {
+                    "text": "senado",
+                    "category": "Organization",
+                    "offset": 195,
+                    "length": 6,
+                    "confidenceScore": 0.39
+                },
+                {
+                    "text": "vota\u00e7\u00f5es",
+                    "category": "Event",
+                    "offset": 268,
+                    "length": 8,
+                    "confidenceScore": 0.51
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437111477685702656",
+            "entities": [
+                {
+                    "text": "elei\u00e7\u00e3o",
+                    "category": "Event",
+                    "offset": 19,
+                    "length": 7,
+                    "confidenceScore": 0.52
+                },
+                {
+                    "text": "bolsonaro",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 30,
+                    "length": 9,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "brasil",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 59,
+                    "length": 6,
+                    "confidenceScore": 0.93
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437111268096290817",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437105218353827853",
+            "entities": [
+                {
+                    "text": "p\u00e9",
+                    "category": "Quantity",
+                    "subcategory": "Dimension",
+                    "offset": 146,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437104211041431553",
+            "entities": [
+                {
+                    "text": "irm\u00e3os",
+                    "category": "PersonType",
+                    "offset": 14,
+                    "length": 6,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "fariseus",
+                    "category": "PersonType",
+                    "offset": 35,
+                    "length": 8,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "mestres da lei",
+                    "category": "PersonType",
+                    "offset": 72,
+                    "length": 14,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "l\u00edderes religiosos",
+                    "category": "PersonType",
+                    "offset": 110,
+                    "length": 18,
+                    "confidenceScore": 0.5
+                },
+                {
+                    "text": "pol\u00edticos",
+                    "category": "PersonType",
+                    "offset": 131,
+                    "length": 9,
+                    "confidenceScore": 0.64
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437104205416779782",
+            "entities": [
+                {
+                    "text": "tosco",
+                    "category": "Person",
+                    "offset": 115,
+                    "length": 5,
+                    "confidenceScore": 0.51
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437102584586817540",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.33
+                },
+                {
+                    "text": "tarc\u00edsio",
+                    "category": "Person",
+                    "offset": 48,
+                    "length": 8,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "rog\u00e9rio marinho",
+                    "category": "Person",
+                    "offset": 57,
+                    "length": 15,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "200 mil",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 78,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "leil\u00f5es",
+                    "category": "Event",
+                    "offset": 118,
+                    "length": 7,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "primeiro",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 209,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437101973770326016",
+            "entities": [
+                {
+                    "text": "at\u00e9 dezembro",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 7,
+                    "length": 12,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "200 mil",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 47,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "moradias",
+                    "category": "Location",
+                    "offset": 55,
+                    "length": 8,
+                    "confidenceScore": 0.42
+                },
+                {
+                    "text": "nordeste",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 85,
+                    "length": 8,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "leil\u00f5es",
+                    "category": "Event",
+                    "offset": 101,
+                    "length": 7,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "do tarc\u00edsio",
+                    "category": "Location",
+                    "offset": 117,
+                    "length": 11,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "cef",
+                    "category": "Organization",
+                    "offset": 243,
+                    "length": 3,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "100 milh\u00f5es",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 252,
+                    "length": 11,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "agora",
+                    "category": "DateTime",
+                    "offset": 265,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437101298835460107",
+            "entities": [
+                {
+                    "text": "at\u00e9 abril",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 22,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "57 milh\u00f5es",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 148,
+                    "length": 10,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "primeiro",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 183,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437100726283554816",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.71
+                },
+                {
+                    "text": "agora",
+                    "category": "DateTime",
+                    "offset": 11,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "agora",
+                    "category": "DateTime",
+                    "offset": 48,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "setembro at\u00e9 dezembro",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 90,
+                    "length": 21,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "petr\u00f3leo",
+                    "category": "Product",
+                    "offset": 211,
+                    "length": 8,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "reformas",
+                    "category": "Event",
+                    "offset": 236,
+                    "length": 8,
+                    "confidenceScore": 0.43
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437096541290913804",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437096378967207939",
+            "entities": [
+                {
+                    "text": "homof\u00f3bico",
+                    "category": "PersonType",
+                    "offset": 26,
+                    "length": 10,
+                    "confidenceScore": 0.66
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437093804906065925",
+            "entities": [
+                {
+                    "text": "analisar",
+                    "category": "Skill",
+                    "offset": 38,
+                    "length": 8,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 66,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "dono",
+                    "category": "PersonType",
+                    "offset": 92,
+                    "length": 4,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "uma",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 121,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "fuzil",
+                    "category": "Product",
+                    "offset": 150,
+                    "length": 5,
+                    "confidenceScore": 0.52
+                },
+                {
+                    "text": "feij\u00e3o...",
+                    "category": "Product",
+                    "offset": 162,
+                    "length": 9,
+                    "confidenceScore": 0.84
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437093118646566920",
+            "entities": [
+                {
+                    "text": "genocida",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 8,
+                    "confidenceScore": 0.85
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437092996982452232",
+            "entities": [
+                {
+                    "text": "vacina",
+                    "category": "Product",
+                    "offset": 26,
+                    "length": 6,
+                    "confidenceScore": 0.49
+                },
+                {
+                    "text": "pai",
+                    "category": "PersonType",
+                    "offset": 60,
+                    "length": 3,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "desgra\u00e7ado",
+                    "category": "PersonType",
+                    "offset": 65,
+                    "length": 10,
+                    "confidenceScore": 0.63
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437092888488337416",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437091436604923917",
+            "entities": [
+                {
+                    "text": "uma",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 10,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437091060904304653",
+            "entities": [
+                {
+                    "text": "bolsonaroooo",
+                    "category": "PersonType",
+                    "offset": 6,
+                    "length": 12,
+                    "confidenceScore": 0.42
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437091018286014464",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437089122053726210",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437088186086395914",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437086626971328517",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437086601084035072",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437086571363291137",
+            "entities": [
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 10,
+                    "confidenceScore": 0.99
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437086022404382722",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "agora",
+                    "category": "DateTime",
+                    "offset": 11,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "bravateiros",
+                    "category": "PersonType",
+                    "offset": 40,
+                    "length": 11,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "estatais",
+                    "category": "Organization",
+                    "offset": 150,
+                    "length": 8,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "1,5 bilh\u00e3o",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 164,
+                    "length": 10,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "800",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 189,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "300",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 204,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "col\u00e9gios militares",
+                    "category": "Location",
+                    "offset": 208,
+                    "length": 18,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "1.000",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 228,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "cisternas",
+                    "category": "Location",
+                    "offset": 234,
+                    "length": 9,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "1.000",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 245,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "antenas de wi-fi",
+                    "category": "Product",
+                    "offset": 251,
+                    "length": 16,
+                    "confidenceScore": 0.63
+                },
+                {
+                    "text": "400",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 268,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "creches",
+                    "category": "Location",
+                    "offset": 272,
+                    "length": 7,
+                    "confidenceScore": 0.79
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437085843978608645",
+            "entities": [
+                {
+                    "text": "912 mil",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437085323062923270",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Location",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "1 mil",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 11,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "cisternas",
+                    "category": "Location",
+                    "offset": 17,
+                    "length": 9,
+                    "confidenceScore": 0.62
+                },
+                {
+                    "text": "400",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 27,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "creches",
+                    "category": "Location",
+                    "offset": 31,
+                    "length": 7,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "300",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 39,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "col\u00e9gios militares",
+                    "category": "Location",
+                    "offset": 43,
+                    "length": 18,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "500",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 62,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "upa",
+                    "category": "Location",
+                    "offset": 66,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "ubs",
+                    "category": "Location",
+                    "offset": 72,
+                    "length": 3,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "500",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 77,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "po\u00e7os",
+                    "category": "Location",
+                    "offset": 81,
+                    "length": 5,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "1,5 bilh\u00e3o",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 128,
+                    "length": 10,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "at\u00e9 abril",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 227,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 243,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437084687453855750",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "col\u00e9gios militares",
+                    "category": "Location",
+                    "offset": 26,
+                    "length": 18,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "upa",
+                    "category": "Location",
+                    "offset": 45,
+                    "length": 3,
+                    "confidenceScore": 0.86
+                },
+                {
+                    "text": "ubs",
+                    "category": "Location",
+                    "offset": 51,
+                    "length": 3,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "creches",
+                    "category": "Location",
+                    "offset": 56,
+                    "length": 7,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "cisternas",
+                    "category": "Location",
+                    "offset": 64,
+                    "length": 9,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "po\u00e7os artesianos",
+                    "category": "Location",
+                    "offset": 75,
+                    "length": 16,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "a",
+                    "category": "Organization",
+                    "offset": 215,
+                    "length": 1,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "petrobr\u00e1s pode",
+                    "category": "Organization",
+                    "offset": 217,
+                    "length": 14,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "1,5 bilh\u00e3o",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 252,
+                    "length": 10,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437084517748154371",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.41
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437083979975471113",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "PersonType",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "800",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 26,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "upa",
+                    "category": "Location",
+                    "offset": 30,
+                    "length": 3,
+                    "confidenceScore": 0.47
+                },
+                {
+                    "text": "300",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 42,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "col\u00e9gios militares",
+                    "category": "Location",
+                    "offset": 46,
+                    "length": 18,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "400",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 66,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "creches",
+                    "category": "Location",
+                    "offset": 70,
+                    "length": 7,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "um",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 101,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "1 bilh\u00e3o",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 125,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437083144264486914",
+            "entities": [
+                {
+                    "text": "bolsonaro",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 9,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "uma",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 12,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "ministro da sa\u00fade",
+                    "category": "PersonType",
+                    "offset": 70,
+                    "length": 17,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "500",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 196,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "3 mil",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 204,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437080357560537098",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437079129199890435",
+            "entities": [
+                {
+                    "text": "presidente",
+                    "category": "PersonType",
+                    "offset": 10,
+                    "length": 10,
+                    "confidenceScore": 0.99
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437077968845787144",
+            "entities": [
+                {
+                    "text": "afeganist\u00e3o",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 20,
+                    "length": 11,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "armas",
+                    "category": "Product",
+                    "offset": 62,
+                    "length": 5,
+                    "confidenceScore": 0.45
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437077839346638855",
+            "entities": [
+                {
+                    "text": "corda",
+                    "category": "Product",
+                    "offset": 6,
+                    "length": 5,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "el\u00e1stico",
+                    "category": "Product",
+                    "offset": 17,
+                    "length": 8,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "tr\u00eas",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 39,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437076967770271757",
+            "entities": [
+                {
+                    "text": "raimundo brito",
+                    "category": "Person",
+                    "offset": 10,
+                    "length": 14,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "russas",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 34,
+                    "length": 6,
+                    "confidenceScore": 0.44
+                },
+                {
+                    "text": "ceara",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 44,
+                    "length": 5,
+                    "confidenceScore": 0.87
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437070421699043330",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437068742119370752",
+            "entities": [],
+            "warnings": []
+        },
+        {
+            "id": "1437066502298087430",
+            "entities": [
+                {
+                    "text": "encara",
+                    "category": "Event",
+                    "offset": 23,
+                    "length": 6,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "entrevistas coletivas",
+                    "category": "Event",
+                    "offset": 30,
+                    "length": 21,
+                    "confidenceScore": 0.73
+                }
+            ],
+            "warnings": []
+        },
+        {
+            "id": "1437061820586541058",
+            "entities": [
+                {
+                    "text": "jair",
+                    "category": "Person",
+                    "offset": 1,
+                    "length": 4,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "real",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 181,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        }
+    ]
+}
