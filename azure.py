@@ -24,14 +24,14 @@ def main():
     sentiment_url, azure_header, summarization_url, key_phrase_url, entities_recon_url = connect_azure()
     # replies_NER(azure_header, entities_recon_url)
     # replies_key_extraction(azure_header, key_phrase_url)
-    text_summarization(azure_header, summarization_url)
-    # if  fetch_replies == True and fetch_tweets == True:
-    #     replies_sentiment_analysis(azure_header, sentiment_url)
-    #     tweets_sentiment_analysis(azure_header, sentiment_url)
-    # elif fetch_tweets == True and fetch_replies == False:
-    #     tweets_sentiment_analysis(azure_header, sentiment_url)
-    # else:
-    #     replies_sentiment_analysis(azure_header, sentiment_url)
+    if  fetch_replies == True and fetch_tweets == True:
+        replies_sentiment_analysis(azure_header, sentiment_url)
+        tweets_sentiment_analysis(azure_header, sentiment_url)
+    elif fetch_tweets == True and fetch_replies == False:
+        tweets_sentiment_analysis(azure_header, sentiment_url)
+    else:
+        replies_sentiment_analysis(azure_header, sentiment_url)
+    # text_summarization(azure_header, summarization_url)
     printSBG('--- END ---')
     sys.stdout = output
     output.close()
@@ -39,7 +39,7 @@ def main():
 
 def text_summarization(azure_header, summarization_url):
     '''Gets the replies from the DB, cleans the data and sends it to Azure'''
-    tweets = Tweets.objects()[:6]
+    tweets = Tweets.objects().all()
     tweet_counter = 1
     for tweet in tweets:
         if not Summarizations.objects(summarization_id=tweet.tweet_id).first():

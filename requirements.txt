@@ -2,3 +2,4 @@ azure-ai-textanalytics==5.2.0b1
 pandas
 yaml
 colored
+pyreadstat

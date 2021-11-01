@@ -6,8 +6,8 @@ import twitter
 from vcolors.colors import * # custom module for printing colored text in terminal
 
 max_tweets, max_replies = 100, 100
-tweets_pages, replies_pages = 1, 5
-user = "lhmandetta"
+tweets_pages, replies_pages = 1, 6
+user = "jairbolsonaro"
 
 def main():
     mongo_setup.global_init()

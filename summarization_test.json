@@ -1,8 +1,8 @@
 {
-    "jobId": "8b3c2055-f347-4315-aa8a-417ac03d950e",
-    "lastUpdateDateTime": "2021-09-24T16:31:31Z",
-    "createdDateTime": "2021-09-24T16:31:12Z",
-    "expirationDateTime": "2021-09-25T16:31:12Z",
+    "jobId": "8feabba5-9a72-417c-94cd-8513dca67072",
+    "lastUpdateDateTime": "2021-09-28T11:59:57Z",
+    "createdDateTime": "2021-09-28T11:59:49Z",
+    "expirationDateTime": "2021-09-29T11:59:49Z",
     "status": "succeeded",
     "errors": [],
     "displayName": "NA",
@@ -13,133 +13,133 @@
         "total": 1,
         "extractiveSummarizationTasks": [
             {
-                "lastUpdateDateTime": "2021-09-24T16:31:31.6621188Z",
+                "lastUpdateDateTime": "2021-09-28T11:59:57.2857083Z",
                 "taskName": "ExtractiveSummarization_latest",
                 "state": "succeeded",
                 "results": {
                     "documents": [
                         {
-                            "id": "1435966262656471041",
+                            "id": "1440259056925511684",
                             "sentences": [
                                 {
-                                    "text": "\"  acho que merecia ser audivisual.",
+                                    "text": "kkkkkk conhece bem essa palavra n\u00e9...",
                                     "rankScore": 1.0,
-                                    "offset": 0,
+                                    "offset": 13,
+                                    "length": 37
+                                },
+                                {
+                                    "text": "jair bolsonaro ser\u00e1 o maior presente de todos os tempos no nosso brasil  quem patrocinou esses jumentos que mal falam portugu\u00eas ?",
+                                    "rankScore": 0.78,
+                                    "offset": 68,
+                                    "length": 129
+                                },
+                                {
+                                    "text": "meia d\u00fazia de idiotas manipulados!!",
+                                    "rankScore": 0.65,
+                                    "offset": 200,
                                     "length": 35
                                 },
                                 {
-                                    "text": "ver a cara marrenta  de mano brown n\u00e3o tem pre\u00e7o.",
-                                    "rankScore": 0.91,
-                                    "offset": 36,
-                                    "length": 49
-                                },
-                                {
-                                    "text": "adoro seus raps, revolu\u00e7\u00e3o negra e perif\u00e9rica.",
-                                    "rankScore": 0.79,
-                                    "offset": 86,
-                                    "length": 46
-                                },
-                                {
-                                    "text": "ouvi e amei  se voc\u00ea recomenda, a\u00ed que n\u00e3o assisto mesmo.",
-                                    "rankScore": 0.79,
-                                    "offset": 134,
-                                    "length": 57
-                                },
-                                {
-                                    "text": "zurrou o maior ladr\u00e3o da hist\u00f3ria do brasil!!!",
-                                    "rankScore": 0.74,
-                                    "offset": 193,
-                                    "length": 46
-                                },
-                                {
-                                    "text": "roubou o pa\u00eds, ajudou ditaduras e grupos terroristas!!",
-                                    "rankScore": 0.75,
-                                    "offset": 240,
-                                    "length": 54
-                                },
-                                {
-                                    "text": "luladr\u00e3o seu lugar \u00e9 na pris\u00e3o!!!",
-                                    "rankScore": 0.61,
-                                    "offset": 308,
-                                    "length": 33
-                                },
-                                {
-                                    "text": "se aborto fosse bom e de sa\u00fade p\u00fablica, sua m\u00e3e teria que ter te abortado seu ladr\u00e3o cachaceiro in\u00fatil.",
-                                    "rankScore": 0.55,
-                                    "offset": 343,
-                                    "length": 103
-                                },
-                                {
-                                    "text": "ela deve se arrepender at\u00e9 hoje amargamente.",
-                                    "rankScore": 0.51,
-                                    "offset": 447,
-                                    "length": 44
-                                },
-                                {
-                                    "text": "to indo vida,calma\ud83d\ude1e\ud83d\ude2d\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f  s\u00f3 dep\u00f4s que terminar de assistir o    voc\u00ea e segunda op\u00e7\u00e3o!",
-                                    "rankScore": 0.52,
-                                    "offset": 493,
-                                    "length": 95
-                                },
-                                {
-                                    "text": "\ud83d\ude0f  esse eh lindo tbm..",
-                                    "rankScore": 0.57,
-                                    "offset": 589,
-                                    "length": 23
-                                },
-                                {
-                                    "text": "s\u00f3 no brasil para um ladr\u00e3o safado que nem vc ter voz ainda....",
-                                    "rankScore": 0.63,
-                                    "offset": 615,
-                                    "length": 63
-                                },
-                                {
-                                    "text": "mano brown tb ta uma vergonha so...",
-                                    "rankScore": 0.63,
-                                    "offset": 678,
-                                    "length": 35
-                                },
-                                {
-                                    "text": "eu so acho ele com atitudes bem racistas tb.",
+                                    "text": "n\u00e3o fazem frente ao nosso presidente!!",
                                     "rankScore": 0.59,
-                                    "offset": 713,
-                                    "length": 44
+                                    "offset": 236,
+                                    "length": 38
                                 },
                                 {
-                                    "text": "a partir de hoje, a gente chama o presidente bolsonaro de : mito ou de lenda..",
-                                    "rankScore": 0.54,
-                                    "offset": 759,
-                                    "length": 78
+                                    "text": "\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7  pois \u00e9 j\u00e1 era de se esperar, quando o povo de verdade est\u00e1 com o sr h\u00e1 uma meia d\u00fazia de gatos pingados querendo holofotes  acefalo foi de fude kkkkkkkkkkkkkkkk  bando de ac\u00e9falos.",
+                                    "rankScore": 0.46,
+                                    "offset": 274,
+                                    "length": 190
                                 },
                                 {
-                                    "text": "\ud83d\ude01\ud83d\ude01  vai pagar a receita federal quando?",
-                                    "rankScore": 0.52,
-                                    "offset": 837,
-                                    "length": 41
-                                },
-                                {
-                                    "text": "urgente seja um estadista  marielle foi assassinada \u00edndios s\u00e3o assassinados mtst s\u00e3o assassinados favelados s\u00e3o assassinados pol\u00edticos s\u00e3o assassinados pobres s\u00e3o assassinados mendigos s\u00e3o assassinados  voc\u00eas v\u00e3o continuar, sistematicamente,parados, sem fazer absolutamente nada?",
-                                    "rankScore": 0.52,
-                                    "offset": 880,
-                                    "length": 279
-                                },
-                                {
-                                    "text": "e agora qual a descupinha???",
-                                    "rankScore": 0.55,
-                                    "offset": 1161,
+                                    "text": "como bem disse o presidente.",
+                                    "rankScore": 0.38,
+                                    "offset": 465,
                                     "length": 28
                                 },
                                 {
-                                    "text": "j\u00e1 ouvi que sonega impostos tamb\u00e9m \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 o multi ladr\u00e3o\u2026.",
-                                    "rankScore": 0.56,
-                                    "offset": 1192,
-                                    "length": 60
+                                    "text": "dessa esquerdalha s\u00f3 se pode esperar isso.",
+                                    "rankScore": 0.3,
+                                    "offset": 494,
+                                    "length": 42
                                 },
                                 {
-                                    "text": "lixo, apoiador de ladr\u00e3o  cagou pela boca  j\u00e1 e foi bom pra c*****************!",
-                                    "rankScore": 0.52,
-                                    "offset": 1254,
-                                    "length": 79
+                                    "text": "meu presidente , me orgulho destas palavras \u2026",
+                                    "rankScore": 0.25,
+                                    "offset": 538,
+                                    "length": 45
+                                },
+                                {
+                                    "text": "mentira  presidente t\u00e1 a\u00ed algo que n\u00e3o concordo com o senhor, acho que deveria dizer a esse povo a\u00ed: \"eu sou seu presidente e mesmo voc\u00eas falando mal de mim eu quero seu bem e fa\u00e7o quest\u00e3o que possam falar mal de mim a vontade, forte abra\u00e7o \ud83d\udc49\ud83d\udc49 \"  vagabundo  manda esses.doido enfiar peido em cord\u00e3o  vc ainda \u00e9 capaz de chamar os outros de ac\u00e9falos ??",
+                                    "rankScore": 0.41,
+                                    "offset": 594,
+                                    "length": 353
+                                },
+                                {
+                                    "text": "chegamos no limite, talkey???",
+                                    "rankScore": 0.29,
+                                    "offset": 1001,
+                                    "length": 29
+                                },
+                                {
+                                    "text": "eles tentam tirar o mito jair messias bolsonaro  da presid\u00eancia da rep\u00fablica, por\u00e9m n\u00e3o consegui!",
+                                    "rankScore": 0.23,
+                                    "offset": 1032,
+                                    "length": 97
+                                },
+                                {
+                                    "text": "parab\u00e9ns pelo bom humor ao tratar desses coitados vermelhosos desmamados \ud83d\ude01\ud83d\ude02  pergunta wuanto t\u00e3o ganhando prsa fazer essas babacadas .",
+                                    "rankScore": 0.22,
+                                    "offset": 1131,
+                                    "length": 136
+                                },
+                                {
+                                    "text": "aqui fechado com bolsonaro  velho broxa         podia fazer uma mat\u00e9ria com essa \"desgra\u00e7a\" desse arthur lira sobre a progress\u00e3o de pena, o fim do foro e pris\u00e3o em segunda inst\u00e2ncia!",
+                                    "rankScore": 0.21,
+                                    "offset": 1268,
+                                    "length": 182
+                                },
+                                {
+                                    "text": "esses corruptos n\u00e3o fazem nada!",
+                                    "rankScore": 0.2,
+                                    "offset": 1451,
+                                    "length": 31
+                                },
+                                {
+                                    "text": "# fechadocombolsonaroate2026 orgulho do meu presidente bolsonaro pois trouxe o patriotismo de volta pra n\u00f3s.",
+                                    "rankScore": 0.18,
+                                    "offset": 2913,
+                                    "length": 108
+                                },
+                                {
+                                    "text": "e suplico ao meu presidente bolsonaro fa\u00e7a oque tiver que ser feito mas n\u00e3o permita que esse maldito domine nossa p\u00e1tria.\ud83e\udd1c\ud83c\udde7\ud83c\uddf7\ud83e\udd1b\ud83d\ude0e\ud83d\udc9a\ud83d\udc9b\ud83d\udc99\ud83d\udcaf\ud83e\udd70  uma vergonha...",
+                                    "rankScore": 0.2,
+                                    "offset": 3022,
+                                    "length": 158
+                                },
+                                {
+                                    "text": "a q ponto q nos chegamos,  sem escolha p 2022..so tem bagre, camarao e hiena   seu lixo.",
+                                    "rankScore": 0.2,
+                                    "offset": 3181,
+                                    "length": 88
+                                },
+                                {
+                                    "text": "vc \u00e9 piada no mundo seu genocida   de cada 10 um defende  e quando voc\u00ea mostra tudo o que foi roubado e s\u00f3 sobrou migalhas pra comprar o voto dele ele j\u00e1 come\u00e7a pensar, coisa que esquerda n\u00e3o quer e que voc\u00ea se informe, n\u00e3o seja escravo de politico, lute o trabalho dignifica o homem.",
+                                    "rankScore": 0.19,
+                                    "offset": 3270,
+                                    "length": 284
+                                },
+                                {
+                                    "text": "meia d\u00fazia de ac\u00e9falos protestam contra jair bolsonaro combinados para o furo de reportagem da imprensa brasileira que j\u00e1 estava esperando para filmar!",
+                                    "rankScore": 0.15,
+                                    "offset": 4773,
+                                    "length": 151
+                                },
+                                {
+                                    "text": "s\u00f3 rindo kkkkk mega manifesta\u00e7\u00e3o kkkkkkkk  os mortadela nem aqui moram, bando de idiota   muito respeitoso o presidente do pa\u00eds se dirigir dessa maneira aos brasileiros que n\u00e3o o apoiam  isto \u00e9 uma vergonha!!!\"",
+                                    "rankScore": 0.18,
+                                    "offset": 4948,
+                                    "length": -4949
                                 }
                             ],
                             "warnings": []
