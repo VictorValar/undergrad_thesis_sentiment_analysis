@@ -1,7 +1,7 @@
 from mongoengine import document
 import requests
 import yaml
-from vcolors.colors import *
+from vcolors.colors import * 
 import config.mongo_setup as mongo_setup
 from models import Summarizations, Tweets, Replies, TweetsSentiment, RepliesSentiment
 import time
