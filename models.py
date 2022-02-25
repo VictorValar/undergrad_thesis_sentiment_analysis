@@ -1,8 +1,4 @@
 import mongoengine
-from mongoengine.fields import IntField
-from mongoengine.queryset.base import CASCADE
-from numpy import negative, positive
-from requests.api import request
 
 class RepliesSentiment(mongoengine.Document):
     reply_id = mongoengine.IntField(unique=True)

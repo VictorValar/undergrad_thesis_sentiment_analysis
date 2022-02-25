@@ -1,7 +1,7 @@
 from models import TweetsRequests, Tweets, TweetsMeta, RepliesRequests
 from datetime import datetime
 import twitter
-from vcolors.colors import * # custom module for printing colored text in terminal
+from vcolors.vcolors import * # custom module for printing colored text in terminal
 
 def create_tt_request(tt_json_resp) -> TweetsRequests:
     if 'next_token' in tt_json_resp['meta']:

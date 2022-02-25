@@ -2,8 +2,11 @@ __pycache__
 tweets.json
 tt_json_resp.json
 dd.txt
-config/
+config.yaml
 replies_df_sav
 tweets_df_sav
 tweets_df.csv
-
+venv
+.env
+.venv
+tes

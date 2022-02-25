@@ -1,5 +1,5 @@
 import json
-from vcolors.colors import *
+from vcolors.vcolors import *
 from models import RepliesSentiment
 
 def save_replies_sentiment_analysis(json_file,batch_counter) -> RepliesSentiment:

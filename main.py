@@ -3,7 +3,7 @@ import data.tweets_requests as tweets_requests
 import data.replies_requests as replies_requests
 import yaml
 import twitter
-from vcolors.colors import * # custom module for printing colored text in terminal
+from vcolors.vcolors import * # custom module for printing colored text in terminal
 
 max_tweets, max_replies = 100, 100
 tweets_pages, replies_pages = 1, 6

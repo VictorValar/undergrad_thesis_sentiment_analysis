@@ -1,5 +1,4 @@
-import json
-from vcolors.colors import *
+from vcolors.vcolors import *
 from models import Summarizations 
 
 def save_Sumarization(json_file,tweet_counter) -> Summarizations:

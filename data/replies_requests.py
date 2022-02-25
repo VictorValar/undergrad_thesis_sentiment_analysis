@@ -1,6 +1,6 @@
 from models import RepliesRequests, RepliesMeta, Replies
 from datetime import datetime
-from vcolors.colors import *
+from vcolors.vcolors import *
 
 def create_reply_requests(replies_json_resp) -> RepliesRequests:
     if 'next_token' in replies_json_resp['meta']:

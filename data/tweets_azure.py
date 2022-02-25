@@ -1,5 +1,4 @@
-import json
-from vcolors.colors import *
+from vcolors.vcolors import *
 from models import TweetsSentiment
 
 def save_tweets_sentiment_analysis(json_file,batch_counter) -> TweetsSentiment:

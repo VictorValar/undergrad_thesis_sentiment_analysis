@@ -5,10 +5,10 @@ import config.mongo_setup as mongo_setup
 from requests.models import Response
 import data.replies_requests as replies_requests
 from models import TweetsRequests, RepliesRequests
-from vcolors.colors import *
+from vcolors.vcolors import *
 
-def create_bearer_token(auth_data):
-    return auth_data["search_tweets_api"]["bearer_token"]
+def create_bearer_token(auth_facebook):
+    return auth_facebook["facebook"]["acess_token"]
 
 
 def get_tweets_count(user, bearer_token):
@@ -37,13 +37,6 @@ def get_replies_count(conversation_id):
     print(f'there were {replies_count} replies')
     return replies_count
 
-
-# def get_max_replies(tweets_count):
-#     '''returns the max allowed replies given the tweet count from te last 7 days'''
-#     max_tt_per_user = 22500
-#     max_replies = tweets_count * max_tt_per_user
-
-
 def tweet_resp_has_next_page():
     obj = TweetsRequests.objects.order_by('-id').first()
     if not obj:
@@ -53,8 +46,7 @@ def tweet_resp_has_next_page():
         if obj.request_meta.next_token != None:
             next_token = obj.request_meta.next_token
             since_id = obj.request_meta.newest_id
-            print(
-                f'There is a next token in the last tweet request : {next_token}')
+            print(f'There is a next token in the last tweet request :{next_token}')
             return next_token, since_id
         else:
             printW("No next token in the last tweet request")
